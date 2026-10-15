@@ -1,0 +1,317 @@
+{
+  "user": "dengshu2",
+  "generated_at": "2026-10-15T01:14:10+00:00",
+  "window_start": "2026-10-08T01:14:10+00:00",
+  "window_end": "2026-10-15T01:14:10+00:00",
+  "window_days": 7,
+  "following_count": 9,
+  "repo_count": 14,
+  "errors": [],
+  "repos": [
+    {
+      "full_name": "morluto/rea",
+      "html_url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis",
+        "claude-code",
+        "cli",
+        "codex",
+        "cordis",
+        "decompiler",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "ghidra",
+        "hopper",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "rea",
+        "reverse-engineering",
+        "static-analysis",
+        "touhou"
+      ],
+      "stargazers_count": 242658,
+      "forks_count": 60468,
+      "created_at": "2026-04-14T00:51:32Z",
+      "pushed_at": "2026-10-15T01:13:30Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "tw93"
+      ],
+      "first_starred_at": "2026-10-10T07:30:05Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "getpaseo/paseo",
+      "html_url": "https://github.com/getpaseo/paseo",
+      "description": "Orchestrate multiple coding agents from desktop and mobile",
+      "language": "TypeScript",
+      "topics": [
+        "ade",
+        "agents",
+        "android",
+        "claude-code",
+        "codex",
+        "copilot",
+        "developer-tools",
+        "hermes",
+        "ios",
+        "linux",
+        "mobile",
+        "opencode",
+        "orchestration",
+        "pi",
+        "windows"
+      ],
+      "stargazers_count": 20898,
+      "forks_count": 2478,
+      "created_at": "2025-10-13T12:27:02Z",
+      "pushed_at": "2026-10-15T01:08:23Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "tw93"
+      ],
+      "first_starred_at": "2026-10-10T14:40:31Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "tester-army/e2e",
+      "html_url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "topics": [
+        "e2e",
+        "e2e-testing",
+        "end-to-end-testing",
+        "mobile",
+        "mobile-testing",
+        "playwright",
+        "web"
+      ],
+      "stargazers_count": 10507,
+      "forks_count": 512,
+      "created_at": "2026-07-22T09:29:04Z",
+      "pushed_at": "2026-10-14T20:35:25Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "tw93"
+      ],
+      "first_starred_at": "2026-10-10T07:18:24Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "noahdunnagan/fsearch",
+      "html_url": "https://github.com/noahdunnagan/fsearch",
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "language": "Rust",
+      "topics": [],
+      "stargazers_count": 2054,
+      "forks_count": 134,
+      "created_at": "2026-10-08T17:50:33Z",
+      "pushed_at": "2026-10-12T18:33:47Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "tw93"
+      ],
+      "first_starred_at": "2026-10-10T07:12:33Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "lab421/forel",
+      "html_url": "https://github.com/lab421/forel",
+      "description": "File automation for macOS. The open source Hazel alternative for macOS.",
+      "language": "Swift",
+      "topics": [],
+      "stargazers_count": 807,
+      "forks_count": 26,
+      "created_at": "2026-06-13T06:11:12Z",
+      "pushed_at": "2026-10-14T20:25:18Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "tw93"
+      ],
+      "first_starred_at": "2026-10-10T07:29:42Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "franzenzenhofer/big-arrow-on-the-screen",
+      "html_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+      "language": "Swift",
+      "topics": [
+        "accessibility",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "macos",
+        "swift"
+      ],
+      "stargazers_count": 744,
+      "forks_count": 20,
+      "created_at": "2026-10-08T08:39:15Z",
+      "pushed_at": "2026-10-12T16:38:15Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "tw93"
+      ],
+      "first_starred_at": "2026-10-10T07:13:05Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "rednote-machine-learning/Inference-autopilot",
+      "html_url": "https://github.com/rednote-machine-learning/Inference-autopilot",
+      "description": "Evidence-driven SGLang inference deployment optimization.",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 142,
+      "forks_count": 1,
+      "created_at": "2026-08-14T09:01:18Z",
+      "pushed_at": "2026-09-07T11:25:12Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-08T05:04:04Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "dentiny/duckdb-object-storage",
+      "html_url": "https://github.com/dentiny/duckdb-object-storage",
+      "description": "DuckDB over object storage",
+      "language": "Rust",
+      "topics": [],
+      "stargazers_count": 66,
+      "forks_count": 7,
+      "created_at": "2026-01-25T11:44:41Z",
+      "pushed_at": "2026-10-12T09:23:33Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-12T21:40:22Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "NVIDIA/cuCascade",
+      "html_url": "https://github.com/NVIDIA/cuCascade",
+      "description": "GPU Memory Reservation Library",
+      "language": "C++",
+      "topics": [],
+      "stargazers_count": 62,
+      "forks_count": 35,
+      "created_at": "2025-12-15T17:53:16Z",
+      "pushed_at": "2026-10-14T18:24:46Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-12T09:03:28Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "Rayman96/CAT",
+      "html_url": "https://github.com/Rayman96/CAT",
+      "description": "支持GPU全链路加速的全同态加密（FHE）框架",
+      "language": "C++",
+      "topics": [],
+      "stargazers_count": 25,
+      "forks_count": 2,
+      "created_at": "2024-10-23T10:43:55Z",
+      "pushed_at": "2025-04-18T07:32:36Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-10T06:52:10Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "zhuzilin/sunabako",
+      "html_url": "https://github.com/zhuzilin/sunabako",
+      "description": "",
+      "language": "Rust",
+      "topics": [],
+      "stargazers_count": 15,
+      "forks_count": 2,
+      "created_at": "2026-10-10T00:04:37Z",
+      "pushed_at": "2026-10-10T11:47:24Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-10T00:34:40Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "Jay-l-Break/dojo-vulhub",
+      "html_url": "https://github.com/Jay-l-Break/dojo-vulhub",
+      "description": "Pinned vulnerable application source branches for the Vulhub benchmark",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "created_at": "2026-10-09T07:37:56Z",
+      "pushed_at": "2026-10-09T16:18:21Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-10T01:58:08Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "LLM-Perf/jev-runtime",
+      "html_url": "https://github.com/LLM-Perf/jev-runtime",
+      "description": "Pluggable typed decision runtime for SGLang and vLLM, with versioned decision bundles and reproducible evaluation",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "created_at": "2026-09-27T06:24:37Z",
+      "pushed_at": "2026-10-14T05:33:19Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-09T14:42:00Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "wey-gu/ladybug",
+      "html_url": "https://github.com/wey-gu/ladybug",
+      "description": "LadybugDB a graph database",
+      "language": "C++",
+      "topics": [],
+      "stargazers_count": 1,
+      "forks_count": 1,
+      "created_at": "2025-11-12T06:57:40Z",
+      "pushed_at": "2026-10-13T08:44:43Z",
+      "archived": false,
+      "fork": true,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-09T01:48:32Z",
+      "network_star_count": 1
+    }
+  ]
+}
