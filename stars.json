@@ -1,11 +1,11 @@
 {
   "user": "dengshu2",
-  "generated_at": "2026-10-15T01:14:10+00:00",
-  "window_start": "2026-10-08T01:14:10+00:00",
-  "window_end": "2026-10-15T01:14:10+00:00",
+  "generated_at": "2026-10-19T01:03:26+00:00",
+  "window_start": "2026-10-12T01:03:26+00:00",
+  "window_end": "2026-10-19T01:03:26+00:00",
   "window_days": 7,
-  "following_count": 9,
-  "repo_count": 14,
+  "following_count": 18,
+  "repo_count": 36,
   "errors": [],
   "repos": [
     {
@@ -35,156 +35,414 @@
         "static-analysis",
         "touhou"
       ],
-      "stargazers_count": 242658,
-      "forks_count": 60468,
+      "stargazers_count": 322410,
+      "forks_count": 81690,
       "created_at": "2026-04-14T00:51:32Z",
-      "pushed_at": "2026-10-15T01:13:30Z",
+      "pushed_at": "2026-10-19T01:00:33Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "tw93"
+        "karminski"
       ],
-      "first_starred_at": "2026-10-10T07:30:05Z",
+      "first_starred_at": "2026-10-13T01:20:22Z",
       "network_star_count": 1
     },
     {
-      "full_name": "getpaseo/paseo",
-      "html_url": "https://github.com/getpaseo/paseo",
-      "description": "Orchestrate multiple coding agents from desktop and mobile",
-      "language": "TypeScript",
+      "full_name": "henrygd/beszel",
+      "html_url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+      "language": "Go",
       "topics": [
-        "ade",
-        "agents",
-        "android",
-        "claude-code",
-        "codex",
-        "copilot",
-        "developer-tools",
-        "hermes",
-        "ios",
-        "linux",
-        "mobile",
-        "opencode",
-        "orchestration",
-        "pi",
-        "windows"
+        "homelab",
+        "monitoring",
+        "self-hosted"
       ],
-      "stargazers_count": 20898,
-      "forks_count": 2478,
-      "created_at": "2025-10-13T12:27:02Z",
-      "pushed_at": "2026-10-15T01:08:23Z",
+      "stargazers_count": 26324,
+      "forks_count": 1098,
+      "created_at": "2024-07-07T21:36:28Z",
+      "pushed_at": "2026-10-18T02:10:17Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "tw93"
+        "karminski"
       ],
-      "first_starred_at": "2026-10-10T14:40:31Z",
+      "first_starred_at": "2026-10-14T18:53:07Z",
       "network_star_count": 1
     },
     {
-      "full_name": "tester-army/e2e",
-      "html_url": "https://github.com/tester-army/e2e",
-      "description": "Next generation e2e testing framework for web and mobile apps.",
-      "language": "TypeScript",
-      "topics": [
-        "e2e",
-        "e2e-testing",
-        "end-to-end-testing",
-        "mobile",
-        "mobile-testing",
-        "playwright",
-        "web"
-      ],
-      "stargazers_count": 10507,
-      "forks_count": 512,
-      "created_at": "2026-07-22T09:29:04Z",
-      "pushed_at": "2026-10-14T20:35:25Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "tw93"
-      ],
-      "first_starred_at": "2026-10-10T07:18:24Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "noahdunnagan/fsearch",
-      "html_url": "https://github.com/noahdunnagan/fsearch",
-      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "full_name": "oxc-project/oxc",
+      "html_url": "https://github.com/oxc-project/oxc",
+      "description": "⚓ A collection of high-performance JavaScript tools.",
       "language": "Rust",
-      "topics": [],
-      "stargazers_count": 2054,
-      "forks_count": 134,
-      "created_at": "2026-10-08T17:50:33Z",
-      "pushed_at": "2026-10-12T18:33:47Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "tw93"
-      ],
-      "first_starred_at": "2026-10-10T07:12:33Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "lab421/forel",
-      "html_url": "https://github.com/lab421/forel",
-      "description": "File automation for macOS. The open source Hazel alternative for macOS.",
-      "language": "Swift",
-      "topics": [],
-      "stargazers_count": 807,
-      "forks_count": 26,
-      "created_at": "2026-06-13T06:11:12Z",
-      "pushed_at": "2026-10-14T20:25:18Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "tw93"
-      ],
-      "first_starred_at": "2026-10-10T07:29:42Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "franzenzenhofer/big-arrow-on-the-screen",
-      "html_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-      "language": "Swift",
       "topics": [
-        "accessibility",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "macos",
-        "swift"
+        "compiler",
+        "javascript",
+        "linter",
+        "minifier",
+        "parser",
+        "transpiler",
+        "typescript"
       ],
-      "stargazers_count": 744,
-      "forks_count": 20,
-      "created_at": "2026-10-08T08:39:15Z",
-      "pushed_at": "2026-10-12T16:38:15Z",
+      "stargazers_count": 23106,
+      "forks_count": 1380,
+      "created_at": "2023-02-09T05:46:51Z",
+      "pushed_at": "2026-10-18T21:11:35Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "tw93"
+        "ouyangzhiping"
       ],
-      "first_starred_at": "2026-10-10T07:13:05Z",
+      "first_starred_at": "2026-10-15T01:46:44Z",
       "network_star_count": 1
     },
     {
-      "full_name": "rednote-machine-learning/Inference-autopilot",
-      "html_url": "https://github.com/rednote-machine-learning/Inference-autopilot",
-      "description": "Evidence-driven SGLang inference deployment optimization.",
+      "full_name": "openobserve/openobserve",
+      "html_url": "https://github.com/openobserve/openobserve",
+      "description": "Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
+      "language": "TypeScript",
+      "topics": [
+        "analytics",
+        "apm",
+        "datadog",
+        "elasticsearch",
+        "grafana",
+        "jaeger",
+        "kibana",
+        "log-analytics",
+        "log-management",
+        "log-search",
+        "logs",
+        "metrics",
+        "monitoring",
+        "observability",
+        "openobserve",
+        "opentelemetry",
+        "prometheus",
+        "rust-lang",
+        "splunk",
+        "traces"
+      ],
+      "stargazers_count": 22417,
+      "forks_count": 1139,
+      "created_at": "2023-02-02T03:29:51Z",
+      "pushed_at": "2026-10-19T00:49:41Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "karminski"
+      ],
+      "first_starred_at": "2026-10-14T19:06:24Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "ast-grep/ast-grep",
+      "html_url": "https://github.com/ast-grep/ast-grep",
+      "description": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+      "language": "Rust",
+      "topics": [
+        "ast",
+        "babel",
+        "codemod",
+        "codereview",
+        "command-line",
+        "command-line-tool",
+        "grep",
+        "linter",
+        "refactoring",
+        "rust",
+        "search",
+        "static-analysis",
+        "structural-search",
+        "tree-sitter",
+        "typescript"
+      ],
+      "stargazers_count": 16268,
+      "forks_count": 480,
+      "created_at": "2022-07-01T19:21:00Z",
+      "pushed_at": "2026-10-15T18:53:39Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-15T01:43:42Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "leanprover/lean4",
+      "html_url": "https://github.com/leanprover/lean4",
+      "description": "Lean 4 programming language and theorem prover",
+      "language": "Lean",
+      "topics": [
+        "lean",
+        "lean4"
+      ],
+      "stargazers_count": 9592,
+      "forks_count": 1050,
+      "created_at": "2018-04-15T02:49:20Z",
+      "pushed_at": "2026-10-19T01:01:28Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-16T07:23:06Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "google-research/harness2",
+      "html_url": "https://github.com/google-research/harness2",
+      "description": "",
       "language": "Python",
       "topics": [],
-      "stargazers_count": 142,
-      "forks_count": 1,
-      "created_at": "2026-08-14T09:01:18Z",
-      "pushed_at": "2026-09-07T11:25:12Z",
+      "stargazers_count": 6433,
+      "forks_count": 583,
+      "created_at": "2026-10-06T21:48:11Z",
+      "pushed_at": "2026-10-14T02:22:51Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-17T19:31:40Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "zhongerxin/iPhone-use",
+      "html_url": "https://github.com/zhongerxin/iPhone-use",
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 4172,
+      "forks_count": 415,
+      "created_at": "2026-10-06T15:09:33Z",
+      "pushed_at": "2026-10-16T08:47:41Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "tw93"
+      ],
+      "first_starred_at": "2026-10-16T07:57:49Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "Saffsanity/sill",
+      "html_url": "https://github.com/Saffsanity/sill",
+      "description": "Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.",
+      "language": "Swift",
+      "topics": [
+        "apple-pencil",
+        "hevc",
+        "ios",
+        "ipad",
+        "ipados",
+        "iphone",
+        "iphone-duo",
+        "macos",
+        "menu-bar",
+        "remote-desktop",
+        "screen-sharing",
+        "screencapturekit",
+        "swift",
+        "swiftui",
+        "tailscale",
+        "videotoolbox"
+      ],
+      "stargazers_count": 3424,
+      "forks_count": 187,
+      "created_at": "2026-09-22T08:06:15Z",
+      "pushed_at": "2026-10-15T15:32:04Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "steipete"
+      ],
+      "first_starred_at": "2026-10-16T03:20:40Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "bruits/satteri",
+      "html_url": "https://github.com/bruits/satteri",
+      "description": "High-performance Markdown and MDX processing for the JavaScript ecosystem",
+      "language": "Rust",
+      "topics": [
+        "commonmark",
+        "gfm",
+        "markdown",
+        "mdx",
+        "parser"
+      ],
+      "stargazers_count": 1278,
+      "forks_count": 37,
+      "created_at": "2026-03-22T16:55:20Z",
+      "pushed_at": "2026-10-17T03:27:01Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-15T01:45:37Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "AeneasVerif/aeneas",
+      "html_url": "https://github.com/AeneasVerif/aeneas",
+      "description": "A verification toolchain for Rust programs",
+      "language": "OCaml",
+      "topics": [
+        "compiler",
+        "coq",
+        "deductive-reasoning",
+        "formal-methods",
+        "formal-verification",
+        "fstar",
+        "hol4",
+        "lean",
+        "ocaml",
+        "program-verification",
+        "proofs",
+        "rust",
+        "rust-lang"
+      ],
+      "stargazers_count": 1069,
+      "forks_count": 130,
+      "created_at": "2021-11-02T12:51:26Z",
+      "pushed_at": "2026-10-18T22:46:39Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-16T07:25:39Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "aicodeking/leanrea",
+      "html_url": "https://github.com/aicodeking/leanrea",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 641,
+      "forks_count": 111,
+      "created_at": "2026-10-17T02:53:24Z",
+      "pushed_at": "2026-10-18T08:46:09Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-18T12:32:58Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "elide-dev/elide",
+      "html_url": "https://github.com/elide-dev/elide",
+      "description": "fast multi-lang runtime",
+      "language": "",
+      "topics": [
+        "graalvm",
+        "javascript",
+        "jvm",
+        "kotlin",
+        "nodejs",
+        "python",
+        "runtime",
+        "typescript",
+        "wintertc"
+      ],
+      "stargazers_count": 573,
+      "forks_count": 40,
+      "created_at": "2022-06-22T05:48:04Z",
+      "pushed_at": "2026-10-16T05:40:11Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "simonw"
+      ],
+      "first_starred_at": "2026-10-15T01:56:59Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "Awakenchan/BloodBorneButPc",
+      "html_url": "https://github.com/Awakenchan/BloodBorneButPc",
+      "description": "Bloodborne on Windows in one package: launcher and engine. Bring your own game dump.",
+      "language": "C#",
+      "topics": [
+        "bloodborne",
+        "bloodborne-launcher",
+        "bloodborne-pc",
+        "bloodborne-windows",
+        "trendshift"
+      ],
+      "stargazers_count": 522,
+      "forks_count": 18,
+      "created_at": "2026-10-11T19:52:46Z",
+      "pushed_at": "2026-10-19T00:58:34Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-17T20:49:45Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "oxc-project/tsrs",
+      "html_url": "https://github.com/oxc-project/tsrs",
+      "description": "Rust port of the TypeScript 7 type checker",
+      "language": "Rust",
+      "topics": [],
+      "stargazers_count": 340,
+      "forks_count": 8,
+      "created_at": "2026-10-01T15:14:18Z",
+      "pushed_at": "2026-10-18T22:40:39Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "steipete"
+      ],
+      "first_starred_at": "2026-10-18T19:35:05Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "lablup/all-smi",
+      "html_url": "https://github.com/lablup/all-smi",
+      "description": "Command-line utility for monitoring GPU hardware.",
+      "language": "Rust",
+      "topics": [
+        "backend-ai",
+        "cluster-computing",
+        "gpu",
+        "monitoring-tool"
+      ],
+      "stargazers_count": 338,
+      "forks_count": 35,
+      "created_at": "2024-08-10T00:02:11Z",
+      "pushed_at": "2026-10-18T05:35:29Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "yihong0618"
       ],
-      "first_starred_at": "2026-10-08T05:04:04Z",
+      "first_starred_at": "2026-10-18T11:52:04Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "chekusu/yomado",
+      "html_url": "https://github.com/chekusu/yomado",
+      "description": "Native macOS virtual displays for visual agents, with a skill to set up and manage their work screens.",
+      "language": "Objective-C",
+      "topics": [],
+      "stargazers_count": 148,
+      "forks_count": 12,
+      "created_at": "2026-10-10T12:49:48Z",
+      "pushed_at": "2026-10-17T09:49:53Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "tw93"
+      ],
+      "first_starred_at": "2026-10-18T14:44:06Z",
       "network_star_count": 1
     },
     {
@@ -193,10 +451,10 @@
       "description": "DuckDB over object storage",
       "language": "Rust",
       "topics": [],
-      "stargazers_count": 66,
-      "forks_count": 7,
+      "stargazers_count": 81,
+      "forks_count": 8,
       "created_at": "2026-01-25T11:44:41Z",
-      "pushed_at": "2026-10-12T09:23:33Z",
+      "pushed_at": "2026-10-18T22:33:57Z",
       "archived": false,
       "fork": false,
       "starred_by": [
@@ -211,10 +469,10 @@
       "description": "GPU Memory Reservation Library",
       "language": "C++",
       "topics": [],
-      "stargazers_count": 62,
+      "stargazers_count": 63,
       "forks_count": 35,
       "created_at": "2025-12-15T17:53:16Z",
-      "pushed_at": "2026-10-14T18:24:46Z",
+      "pushed_at": "2026-10-16T21:41:44Z",
       "archived": false,
       "fork": false,
       "starred_by": [
@@ -224,93 +482,337 @@
       "network_star_count": 1
     },
     {
-      "full_name": "Rayman96/CAT",
-      "html_url": "https://github.com/Rayman96/CAT",
-      "description": "支持GPU全链路加速的全同态加密（FHE）框架",
-      "language": "C++",
+      "full_name": "ibragim-bad/evals-from-sessions",
+      "html_url": "https://github.com/ibragim-bad/evals-from-sessions",
+      "description": "Turn your coding-agent sessions into private evals and find the cheapest setup that still solves your tasks.",
+      "language": "Shell",
       "topics": [],
-      "stargazers_count": 25,
-      "forks_count": 2,
-      "created_at": "2024-10-23T10:43:55Z",
-      "pushed_at": "2025-04-18T07:32:36Z",
+      "stargazers_count": 53,
+      "forks_count": 0,
+      "created_at": "2026-10-13T13:19:35Z",
+      "pushed_at": "2026-10-14T17:56:56Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "yihong0618"
+        "mrexodia"
       ],
-      "first_starred_at": "2026-10-10T06:52:10Z",
+      "first_starred_at": "2026-10-17T13:27:47Z",
       "network_star_count": 1
     },
     {
-      "full_name": "zhuzilin/sunabako",
-      "html_url": "https://github.com/zhuzilin/sunabako",
+      "full_name": "ClickHouse/clickhouse-c",
+      "html_url": "https://github.com/ClickHouse/clickhouse-c",
+      "description": "minimalist header-only library for embedded contexts",
+      "language": "C",
+      "topics": [],
+      "stargazers_count": 41,
+      "forks_count": 5,
+      "created_at": "2026-05-21T21:59:57Z",
+      "pushed_at": "2026-09-25T20:20:27Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "alexey-milovidov"
+      ],
+      "first_starred_at": "2026-10-12T03:56:45Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "SauersML/watching",
+      "html_url": "https://github.com/SauersML/watching",
+      "description": "Experiments on whether language models can learn to detect read-only activation probes",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 35,
+      "forks_count": 0,
+      "created_at": "2026-10-16T05:37:11Z",
+      "pushed_at": "2026-10-18T19:58:19Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-18T08:34:42Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "ShaoqiangLu/DFVG",
+      "html_url": "https://github.com/ShaoqiangLu/DFVG",
+      "description": "DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU.   ",
+      "language": "C++",
+      "topics": [],
+      "stargazers_count": 29,
+      "forks_count": 5,
+      "created_at": "2025-08-17T07:56:01Z",
+      "pushed_at": "2025-11-26T16:09:37Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "karminski"
+      ],
+      "first_starred_at": "2026-10-15T05:53:16Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "kweatherman/ida2pdb",
+      "html_url": "https://github.com/kweatherman/ida2pdb",
       "description": "",
-      "language": "Rust",
-      "topics": [],
-      "stargazers_count": 15,
-      "forks_count": 2,
-      "created_at": "2026-10-10T00:04:37Z",
-      "pushed_at": "2026-10-10T11:47:24Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "yihong0618"
-      ],
-      "first_starred_at": "2026-10-10T00:34:40Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "Jay-l-Break/dojo-vulhub",
-      "html_url": "https://github.com/Jay-l-Break/dojo-vulhub",
-      "description": "Pinned vulnerable application source branches for the Vulhub benchmark",
-      "language": "Python",
-      "topics": [],
-      "stargazers_count": 1,
-      "forks_count": 0,
-      "created_at": "2026-10-09T07:37:56Z",
-      "pushed_at": "2026-10-09T16:18:21Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "yihong0618"
-      ],
-      "first_starred_at": "2026-10-10T01:58:08Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "LLM-Perf/jev-runtime",
-      "html_url": "https://github.com/LLM-Perf/jev-runtime",
-      "description": "Pluggable typed decision runtime for SGLang and vLLM, with versioned decision bundles and reproducible evaluation",
-      "language": "Python",
-      "topics": [],
-      "stargazers_count": 1,
-      "forks_count": 0,
-      "created_at": "2026-09-27T06:24:37Z",
-      "pushed_at": "2026-10-14T05:33:19Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "yihong0618"
-      ],
-      "first_starred_at": "2026-10-09T14:42:00Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "wey-gu/ladybug",
-      "html_url": "https://github.com/wey-gu/ladybug",
-      "description": "LadybugDB a graph database",
       "language": "C++",
       "topics": [],
-      "stargazers_count": 1,
+      "stargazers_count": 26,
       "forks_count": 1,
-      "created_at": "2025-11-12T06:57:40Z",
-      "pushed_at": "2026-10-13T08:44:43Z",
+      "created_at": "2026-09-30T01:58:20Z",
+      "pushed_at": "2026-10-11T23:18:08Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-12T14:22:53Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "chosen-instruction-attack/CIA-toolchain",
+      "html_url": "https://github.com/chosen-instruction-attack/CIA-toolchain",
+      "description": "The toolchain of Chosen-instruction attack",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 23,
+      "forks_count": 1,
+      "created_at": "2021-11-11T07:09:50Z",
+      "pushed_at": "2022-05-03T03:59:08Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-18T10:32:10Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "akatz-labs/h3-character-swap-tool",
+      "html_url": "https://github.com/akatz-labs/h3-character-swap-tool",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 20,
+      "forks_count": 1,
+      "created_at": "2026-10-16T08:38:04Z",
+      "pushed_at": "2026-10-17T23:42:28Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-17T13:26:22Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "radkawar/lindm",
+      "html_url": "https://github.com/radkawar/lindm",
+      "description": "Self-hosted MDM for Linux fleets. Enrollment, profiles, disk encryption, lock and wipe, OS updates and remote assistance with each distribution's native tools.",
+      "language": "Go",
+      "topics": [
+        "debian",
+        "device-management",
+        "disk-encryption",
+        "endpoint-management",
+        "fedora",
+        "fleet-management",
+        "go",
+        "linux",
+        "mdm",
+        "postgresql",
+        "remote-assistance",
+        "rhel",
+        "self-hosted",
+        "tpm",
+        "ubuntu"
+      ],
+      "stargazers_count": 20,
+      "forks_count": 1,
+      "created_at": "2026-10-08T12:35:54Z",
+      "pushed_at": "2026-10-16T07:06:01Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-17T10:14:16Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "vincalkr/Strata-DSV4.1",
+      "html_url": "https://github.com/vincalkr/Strata-DSV4.1",
+      "description": "DeepSeek-V4.1-Flash GSQ on a single RX 7900 XTX (gfx1100, ROCm/HIP): the v41 engine, the optimizations with their measured numbers, and the docs",
+      "language": "C++",
+      "topics": [],
+      "stargazers_count": 18,
+      "forks_count": 1,
+      "created_at": "2026-10-16T16:27:33Z",
+      "pushed_at": "2026-10-16T22:33:06Z",
       "archived": false,
       "fork": true,
       "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-17T22:19:46Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "oscarsantanaarias/IDA-Ghidra-bridge",
+      "html_url": "https://github.com/oscarsantanaarias/IDA-Ghidra-bridge",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 15,
+      "forks_count": 3,
+      "created_at": "2026-10-11T17:31:46Z",
+      "pushed_at": "2026-10-12T13:53:09Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-15T08:38:03Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "DeadKennedyx/hidden-tiny-aes",
+      "html_url": "https://github.com/DeadKennedyx/hidden-tiny-aes",
+      "description": "AES-256-CBC with some evasion techniques",
+      "language": "C",
+      "topics": [
+        "c",
+        "evasion",
+        "evasion-detection",
+        "evasion-techniques",
+        "evasions",
+        "malware",
+        "malware-analysis",
+        "malware-detection",
+        "malware-development",
+        "malware-research",
+        "reverse-engineering"
+      ],
+      "stargazers_count": 11,
+      "forks_count": 2,
+      "created_at": "2026-08-29T23:05:15Z",
+      "pushed_at": "2026-08-31T00:48:28Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-18T10:36:29Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "Garfield1002/open_sleigh",
+      "html_url": "https://github.com/Garfield1002/open_sleigh",
+      "description": "Community-maintained SLEIGH processor specifications for Ghidra",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 11,
+      "forks_count": 1,
+      "created_at": "2026-05-10T21:58:27Z",
+      "pushed_at": "2026-10-16T09:55:41Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-17T12:38:11Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "2fxbu97lhv/spectrum-ida-theme",
+      "html_url": "https://github.com/2fxbu97lhv/spectrum-ida-theme",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 9,
+      "forks_count": 0,
+      "created_at": "2026-10-14T02:29:36Z",
+      "pushed_at": "2026-10-18T18:05:01Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-17T18:22:08Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "dialohq/tailscale-database-gateway",
+      "html_url": "https://github.com/dialohq/tailscale-database-gateway",
+      "description": "PostgreSQL and ClickHouse gateway with Tailscale identity and Vault dynamic credentials",
+      "language": "Go",
+      "topics": [],
+      "stargazers_count": 8,
+      "forks_count": 0,
+      "created_at": "2026-10-02T16:27:02Z",
+      "pushed_at": "2026-10-11T17:30:55Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "alexey-milovidov"
+      ],
+      "first_starred_at": "2026-10-12T04:48:48Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "chosen-instruction-attack/CIA-dataset",
+      "html_url": "https://github.com/chosen-instruction-attack/CIA-dataset",
+      "description": "",
+      "language": "",
+      "topics": [],
+      "stargazers_count": 7,
+      "forks_count": 1,
+      "created_at": "2022-04-01T14:40:11Z",
+      "pushed_at": "2022-04-01T15:01:42Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-18T10:32:04Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "gharman/samantha",
+      "html_url": "https://github.com/gharman/samantha",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 4,
+      "forks_count": 0,
+      "created_at": "2026-09-27T23:07:32Z",
+      "pushed_at": "2026-10-11T01:28:03Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "simonw"
+      ],
+      "first_starred_at": "2026-10-15T01:26:55Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "LuYanFCP/miniRL",
+      "html_url": "https://github.com/LuYanFCP/miniRL",
+      "description": "A Simple RL Framework for teaching and thesis practice",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 3,
+      "forks_count": 0,
+      "created_at": "2026-10-02T12:55:53Z",
+      "pushed_at": "2026-10-06T06:11:25Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
         "yihong0618"
       ],
-      "first_starred_at": "2026-10-09T01:48:32Z",
+      "first_starred_at": "2026-10-18T11:51:14Z",
       "network_star_count": 1
     }
   ]
