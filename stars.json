@@ -1,192 +1,81 @@
 {
   "user": "dengshu2",
-  "generated_at": "2026-10-19T01:03:26+00:00",
-  "window_start": "2026-10-12T01:03:26+00:00",
-  "window_end": "2026-10-19T01:03:26+00:00",
+  "generated_at": "2026-10-26T01:05:38+00:00",
+  "window_start": "2026-10-19T01:05:38+00:00",
+  "window_end": "2026-10-26T01:05:38+00:00",
   "window_days": 7,
   "following_count": 18,
-  "repo_count": 36,
+  "repo_count": 69,
   "errors": [],
   "repos": [
     {
-      "full_name": "morluto/rea",
-      "html_url": "https://github.com/morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "language": "TypeScript",
+      "full_name": "lxgw/LxgwWenKai",
+      "html_url": "https://github.com/lxgw/LxgwWenKai",
+      "description": "An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  ",
+      "language": "Shell",
       "topics": [
+        "cjk",
+        "font",
+        "typeface"
+      ],
+      "stargazers_count": 26585,
+      "forks_count": 653,
+      "created_at": "2021-01-30T15:41:52Z",
+      "pushed_at": "2026-10-23T16:58:29Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-20T21:35:39Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "deepseek-ai/DeepInfer",
+      "html_url": "https://github.com/deepseek-ai/DeepInfer",
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 22395,
+      "forks_count": 2588,
+      "created_at": "2026-10-16T07:47:23Z",
+      "pushed_at": "2026-10-25T11:59:27Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-20T09:04:16Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "NVIDIA/SkillSpector",
+      "html_url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "language": "Python",
+      "topics": [
+        "agent-security",
         "agent-skills",
-        "ai-agents",
-        "binary-analysis",
+        "agentic-ai",
+        "ai-security",
         "claude-code",
-        "cli",
-        "codex",
-        "cordis",
-        "decompiler",
-        "developer-tools",
-        "dsh",
-        "dsh-plugin",
-        "ghidra",
-        "hopper",
-        "llm",
         "mcp",
-        "model-context-protocol",
-        "rea",
-        "reverse-engineering",
-        "static-analysis",
-        "touhou"
+        "prompt-injection",
+        "security-scanner",
+        "security-tools",
+        "security-workflow",
+        "supply-chain-security"
       ],
-      "stargazers_count": 322410,
-      "forks_count": 81690,
-      "created_at": "2026-04-14T00:51:32Z",
-      "pushed_at": "2026-10-19T01:00:33Z",
+      "stargazers_count": 21604,
+      "forks_count": 1902,
+      "created_at": "2026-03-21T00:28:43Z",
+      "pushed_at": "2026-10-23T09:40:29Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "karminski"
+        "mrexodia"
       ],
-      "first_starred_at": "2026-10-13T01:20:22Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "henrygd/beszel",
-      "html_url": "https://github.com/henrygd/beszel",
-      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
-      "language": "Go",
-      "topics": [
-        "homelab",
-        "monitoring",
-        "self-hosted"
-      ],
-      "stargazers_count": 26324,
-      "forks_count": 1098,
-      "created_at": "2024-07-07T21:36:28Z",
-      "pushed_at": "2026-10-18T02:10:17Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "karminski"
-      ],
-      "first_starred_at": "2026-10-14T18:53:07Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "oxc-project/oxc",
-      "html_url": "https://github.com/oxc-project/oxc",
-      "description": "⚓ A collection of high-performance JavaScript tools.",
-      "language": "Rust",
-      "topics": [
-        "compiler",
-        "javascript",
-        "linter",
-        "minifier",
-        "parser",
-        "transpiler",
-        "typescript"
-      ],
-      "stargazers_count": 23106,
-      "forks_count": 1380,
-      "created_at": "2023-02-09T05:46:51Z",
-      "pushed_at": "2026-10-18T21:11:35Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "ouyangzhiping"
-      ],
-      "first_starred_at": "2026-10-15T01:46:44Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "openobserve/openobserve",
-      "html_url": "https://github.com/openobserve/openobserve",
-      "description": "Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
-      "language": "TypeScript",
-      "topics": [
-        "analytics",
-        "apm",
-        "datadog",
-        "elasticsearch",
-        "grafana",
-        "jaeger",
-        "kibana",
-        "log-analytics",
-        "log-management",
-        "log-search",
-        "logs",
-        "metrics",
-        "monitoring",
-        "observability",
-        "openobserve",
-        "opentelemetry",
-        "prometheus",
-        "rust-lang",
-        "splunk",
-        "traces"
-      ],
-      "stargazers_count": 22417,
-      "forks_count": 1139,
-      "created_at": "2023-02-02T03:29:51Z",
-      "pushed_at": "2026-10-19T00:49:41Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "karminski"
-      ],
-      "first_starred_at": "2026-10-14T19:06:24Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "ast-grep/ast-grep",
-      "html_url": "https://github.com/ast-grep/ast-grep",
-      "description": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
-      "language": "Rust",
-      "topics": [
-        "ast",
-        "babel",
-        "codemod",
-        "codereview",
-        "command-line",
-        "command-line-tool",
-        "grep",
-        "linter",
-        "refactoring",
-        "rust",
-        "search",
-        "static-analysis",
-        "structural-search",
-        "tree-sitter",
-        "typescript"
-      ],
-      "stargazers_count": 16268,
-      "forks_count": 480,
-      "created_at": "2022-07-01T19:21:00Z",
-      "pushed_at": "2026-10-15T18:53:39Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "ouyangzhiping"
-      ],
-      "first_starred_at": "2026-10-15T01:43:42Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "leanprover/lean4",
-      "html_url": "https://github.com/leanprover/lean4",
-      "description": "Lean 4 programming language and theorem prover",
-      "language": "Lean",
-      "topics": [
-        "lean",
-        "lean4"
-      ],
-      "stargazers_count": 9592,
-      "forks_count": 1050,
-      "created_at": "2018-04-15T02:49:20Z",
-      "pushed_at": "2026-10-19T01:01:28Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "ouyangzhiping"
-      ],
-      "first_starred_at": "2026-10-16T07:23:06Z",
+      "first_starred_at": "2026-10-22T14:02:04Z",
       "network_star_count": 1
     },
     {
@@ -195,195 +84,448 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stargazers_count": 6433,
-      "forks_count": 583,
+      "stargazers_count": 19627,
+      "forks_count": 1934,
       "created_at": "2026-10-06T21:48:11Z",
       "pushed_at": "2026-10-14T02:22:51Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "mrexodia"
+        "karminski"
       ],
-      "first_starred_at": "2026-10-17T19:31:40Z",
+      "first_starred_at": "2026-10-19T23:30:18Z",
       "network_star_count": 1
     },
     {
-      "full_name": "zhongerxin/iPhone-use",
-      "html_url": "https://github.com/zhongerxin/iPhone-use",
-      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "full_name": "adobe-fonts/source-han-sans",
+      "html_url": "https://github.com/adobe-fonts/source-han-sans",
+      "description": "Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕",
       "language": "Python",
-      "topics": [],
-      "stargazers_count": 4172,
-      "forks_count": 415,
-      "created_at": "2026-10-06T15:09:33Z",
-      "pushed_at": "2026-10-16T08:47:41Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "tw93"
-      ],
-      "first_starred_at": "2026-10-16T07:57:49Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "Saffsanity/sill",
-      "html_url": "https://github.com/Saffsanity/sill",
-      "description": "Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.",
-      "language": "Swift",
       "topics": [
-        "apple-pencil",
-        "hevc",
-        "ios",
-        "ipad",
-        "ipados",
-        "iphone",
-        "iphone-duo",
-        "macos",
-        "menu-bar",
-        "remote-desktop",
-        "screen-sharing",
-        "screencapturekit",
-        "swift",
-        "swiftui",
-        "tailscale",
-        "videotoolbox"
+        "cff",
+        "cff2",
+        "cjk",
+        "font",
+        "opentype",
+        "otc",
+        "otf",
+        "source-han",
+        "variable-fonts"
       ],
-      "stargazers_count": 3424,
-      "forks_count": 187,
-      "created_at": "2026-09-22T08:06:15Z",
-      "pushed_at": "2026-10-15T15:32:04Z",
+      "stargazers_count": 17400,
+      "forks_count": 1386,
+      "created_at": "2014-07-11T11:19:49Z",
+      "pushed_at": "2025-06-25T03:30:03Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "steipete"
+        "ouyangzhiping"
       ],
-      "first_starred_at": "2026-10-16T03:20:40Z",
+      "first_starred_at": "2026-10-20T21:45:45Z",
       "network_star_count": 1
     },
     {
-      "full_name": "bruits/satteri",
-      "html_url": "https://github.com/bruits/satteri",
-      "description": "High-performance Markdown and MDX processing for the JavaScript ecosystem",
+      "full_name": "faressoft/terminalizer",
+      "html_url": "https://github.com/faressoft/terminalizer",
+      "description": "🦄 Record your terminal and generate animated gif images or share a web player",
+      "language": "JavaScript",
+      "topics": [
+        "animated",
+        "bash",
+        "bash-profile",
+        "capture",
+        "colors",
+        "command-line",
+        "font",
+        "generate",
+        "gif",
+        "powershell",
+        "pty",
+        "record",
+        "render",
+        "repeat",
+        "shell",
+        "shot",
+        "terminal",
+        "theme",
+        "tty",
+        "zsh"
+      ],
+      "stargazers_count": 16168,
+      "forks_count": 522,
+      "created_at": "2018-07-22T16:00:15Z",
+      "pushed_at": "2024-08-29T00:40:13Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-20T21:45:13Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "atelier-anchor/smiley-sans",
+      "html_url": "https://github.com/atelier-anchor/smiley-sans",
+      "description": "得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体",
+      "language": "HTML",
+      "topics": [
+        "cjk",
+        "cjk-font",
+        "font",
+        "typeface"
+      ],
+      "stargazers_count": 14936,
+      "forks_count": 384,
+      "created_at": "2022-11-11T13:49:16Z",
+      "pushed_at": "2024-12-10T17:36:25Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-20T21:45:06Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "be5invis/Sarasa-Gothic",
+      "html_url": "https://github.com/be5invis/Sarasa-Gothic",
+      "description": "Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕",
+      "language": "JavaScript",
+      "topics": [
+        "font",
+        "typeface"
+      ],
+      "stargazers_count": 12921,
+      "forks_count": 402,
+      "created_at": "2017-06-30T09:17:03Z",
+      "pushed_at": "2026-10-25T01:39:32Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-20T21:45:22Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "peach-mitao/peach",
+      "html_url": "https://github.com/peach-mitao/peach",
+      "description": "Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system",
+      "language": "Python",
+      "topics": [
+        "jav",
+        "local-first",
+        "media-library",
+        "media-manager",
+        "python",
+        "react",
+        "self-hosted",
+        "video-player"
+      ],
+      "stargazers_count": 11685,
+      "forks_count": 1391,
+      "created_at": "2026-08-19T19:48:30Z",
+      "pushed_at": "2026-10-24T06:06:40Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yetone"
+      ],
+      "first_starred_at": "2026-10-24T09:21:52Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "adobe-fonts/source-han-serif",
+      "html_url": "https://github.com/adobe-fonts/source-han-serif",
+      "description": "Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조",
+      "language": "Shell",
+      "topics": [
+        "cff",
+        "cff2",
+        "cjk",
+        "font",
+        "opentype",
+        "otc",
+        "otf",
+        "source-han",
+        "variable-fonts"
+      ],
+      "stargazers_count": 9791,
+      "forks_count": 681,
+      "created_at": "2017-03-07T22:49:29Z",
+      "pushed_at": "2024-07-30T18:57:27Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-20T21:45:53Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "wordshub/free-font",
+      "html_url": "https://github.com/wordshub/free-font",
+      "description": "大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...",
+      "language": "JavaScript",
+      "topics": [
+        "cjk",
+        "font",
+        "free",
+        "opentype",
+        "sil"
+      ],
+      "stargazers_count": 6518,
+      "forks_count": 449,
+      "created_at": "2020-01-08T09:24:13Z",
+      "pushed_at": "2025-02-27T15:36:34Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-20T21:45:55Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "TakWolf/ark-pixel-font",
+      "html_url": "https://github.com/TakWolf/ark-pixel-font",
+      "description": "开源的泛拉丁与泛中日韩像素字体，黑体风格",
+      "language": "Python",
+      "topics": [
+        "bitmap",
+        "bitmap-font",
+        "bitmap-fonts",
+        "chinese",
+        "chinese-simplified",
+        "chinese-traditional",
+        "cjk",
+        "cjk-font",
+        "cjk-fonts",
+        "font",
+        "fonts",
+        "japanese",
+        "korean",
+        "pixel",
+        "pixel-font",
+        "pixel-fonts"
+      ],
+      "stargazers_count": 4819,
+      "forks_count": 100,
+      "created_at": "2021-05-11T18:12:13Z",
+      "pushed_at": "2026-10-25T03:39:00Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-20T21:51:56Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "hyperlight-dev/hyperlight",
+      "html_url": "https://github.com/hyperlight-dev/hyperlight",
+      "description": "Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.",
       "language": "Rust",
       "topics": [
-        "commonmark",
-        "gfm",
-        "markdown",
-        "mdx",
-        "parser"
-      ],
-      "stargazers_count": 1278,
-      "forks_count": 37,
-      "created_at": "2026-03-22T16:55:20Z",
-      "pushed_at": "2026-10-17T03:27:01Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "ouyangzhiping"
-      ],
-      "first_starred_at": "2026-10-15T01:45:37Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "AeneasVerif/aeneas",
-      "html_url": "https://github.com/AeneasVerif/aeneas",
-      "description": "A verification toolchain for Rust programs",
-      "language": "OCaml",
-      "topics": [
-        "compiler",
-        "coq",
-        "deductive-reasoning",
-        "formal-methods",
-        "formal-verification",
-        "fstar",
-        "hol4",
-        "lean",
-        "ocaml",
-        "program-verification",
-        "proofs",
+        "hyper-v",
+        "hypervisor",
+        "kvm",
+        "mshv",
         "rust",
-        "rust-lang"
+        "vmm"
       ],
-      "stargazers_count": 1069,
-      "forks_count": 130,
-      "created_at": "2021-11-02T12:51:26Z",
-      "pushed_at": "2026-10-18T22:46:39Z",
+      "stargazers_count": 4756,
+      "forks_count": 218,
+      "created_at": "2024-11-05T16:39:07Z",
+      "pushed_at": "2026-10-23T11:09:30Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "ouyangzhiping"
+        "alexey-milovidov"
       ],
-      "first_starred_at": "2026-10-16T07:25:39Z",
+      "first_starred_at": "2026-10-21T20:06:05Z",
       "network_star_count": 1
     },
     {
-      "full_name": "aicodeking/leanrea",
-      "html_url": "https://github.com/aicodeking/leanrea",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "language": "Python",
-      "topics": [],
-      "stargazers_count": 641,
-      "forks_count": 111,
-      "created_at": "2026-10-17T02:53:24Z",
-      "pushed_at": "2026-10-18T08:46:09Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mrexodia"
-      ],
-      "first_starred_at": "2026-10-18T12:32:58Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "elide-dev/elide",
-      "html_url": "https://github.com/elide-dev/elide",
-      "description": "fast multi-lang runtime",
+      "full_name": "TrionesType/zhuque",
+      "html_url": "https://github.com/TrionesType/zhuque",
+      "description": "朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project",
       "language": "",
       "topics": [
-        "graalvm",
-        "javascript",
-        "jvm",
-        "kotlin",
-        "nodejs",
-        "python",
-        "runtime",
-        "typescript",
-        "wintertc"
+        "cjk",
+        "cjk-font",
+        "font"
       ],
-      "stargazers_count": 573,
-      "forks_count": 40,
-      "created_at": "2022-06-22T05:48:04Z",
-      "pushed_at": "2026-10-16T05:40:11Z",
+      "stargazers_count": 3582,
+      "forks_count": 55,
+      "created_at": "2023-08-21T12:02:19Z",
+      "pushed_at": "2026-07-23T04:57:39Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "simonw"
+        "ouyangzhiping"
       ],
-      "first_starred_at": "2026-10-15T01:56:59Z",
+      "first_starred_at": "2026-10-20T21:52:05Z",
       "network_star_count": 1
     },
     {
-      "full_name": "Awakenchan/BloodBorneButPc",
-      "html_url": "https://github.com/Awakenchan/BloodBorneButPc",
-      "description": "Bloodborne on Windows in one package: launcher and engine. Bring your own game dump.",
-      "language": "C#",
+      "full_name": "obsidianmd/pele",
+      "html_url": "https://github.com/obsidianmd/pele",
+      "description": "Renders Mermaid diagrams faster than you'd run from a volcano! 🌋 ",
+      "language": "TypeScript",
       "topics": [
-        "bloodborne",
-        "bloodborne-launcher",
-        "bloodborne-pc",
-        "bloodborne-windows",
-        "trendshift"
+        "charts",
+        "diagramming",
+        "diagrams",
+        "mermaid",
+        "mermaid-diagrams",
+        "mermaidjs"
       ],
-      "stargazers_count": 522,
-      "forks_count": 18,
-      "created_at": "2026-10-11T19:52:46Z",
-      "pushed_at": "2026-10-19T00:58:34Z",
+      "stargazers_count": 3529,
+      "forks_count": 107,
+      "created_at": "2026-10-05T23:32:40Z",
+      "pushed_at": "2026-10-24T18:51:20Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-23T04:31:52Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "TakWolf/fusion-pixel-font",
+      "html_url": "https://github.com/TakWolf/fusion-pixel-font",
+      "description": "开源的泛拉丁与泛中日韩像素字体，黑体风格",
+      "language": "Python",
+      "topics": [
+        "bitmap",
+        "bitmap-font",
+        "bitmap-fonts",
+        "chinese",
+        "chinese-simplified",
+        "chinese-traditional",
+        "cjk",
+        "cjk-font",
+        "cjk-fonts",
+        "font",
+        "fonts",
+        "japanese",
+        "korean",
+        "pixel",
+        "pixel-font",
+        "pixel-fonts"
+      ],
+      "stargazers_count": 3398,
+      "forks_count": 67,
+      "created_at": "2022-03-15T15:33:09Z",
+      "pushed_at": "2026-10-25T00:04:57Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-20T21:52:37Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "PanosK92/SpartanEngine",
+      "html_url": "https://github.com/PanosK92/SpartanEngine",
+      "description": "A game engine with a fully bindless, GPU-driven renderer featuring real-time path-traced global illumination, hardware ray tracing, and a physics simulation running at 200Hz, built over 12+ years of R&D",
+      "language": "C++",
+      "topics": [
+        "atmospheric-scattering",
+        "bindless",
+        "bsdf",
+        "car-simulation",
+        "cpp",
+        "cutting-edge",
+        "ecs",
+        "game-engine",
+        "gpu-driven",
+        "imgui",
+        "livestream",
+        "path-tracing",
+        "physx",
+        "ray-tracing",
+        "restir-gi",
+        "spartan",
+        "ssao",
+        "taa",
+        "vulkan",
+        "xess"
+      ],
+      "stargazers_count": 3193,
+      "forks_count": 281,
+      "created_at": "2016-06-18T03:27:49Z",
+      "pushed_at": "2026-10-25T22:27:28Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mholt"
+      ],
+      "first_starred_at": "2026-10-19T06:09:24Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "Asymptote-Labs/agent-beacon",
+      "html_url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
+      "language": "Go",
+      "topics": [
+        "agent-ai-cli",
+        "agent-harnesses",
+        "agent-security",
+        "browser-extension",
+        "ci",
+        "claude-code",
+        "cloud",
+        "codex",
+        "cursor",
+        "detection-engineering",
+        "jev",
+        "knowledge-base",
+        "memory",
+        "mobile-device-management",
+        "observability",
+        "security",
+        "security-information-and-event-management",
+        "security-tools",
+        "telemetry",
+        "traces"
+      ],
+      "stargazers_count": 2808,
+      "forks_count": 255,
+      "created_at": "2026-05-12T02:49:33Z",
+      "pushed_at": "2026-10-25T19:26:26Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "mrexodia"
       ],
-      "first_starred_at": "2026-10-17T20:49:45Z",
+      "first_starred_at": "2026-10-22T09:41:41Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "lxgw/LxgwNeoXiHei",
+      "html_url": "https://github.com/lxgw/LxgwNeoXiHei",
+      "description": "A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。",
+      "language": "",
+      "topics": [
+        "chinese-simplified",
+        "font",
+        "typeface"
+      ],
+      "stargazers_count": 2712,
+      "forks_count": 37,
+      "created_at": "2020-12-31T10:35:53Z",
+      "pushed_at": "2026-10-23T16:30:04Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-20T21:35:19Z",
       "network_star_count": 1
     },
     {
@@ -392,427 +534,1105 @@
       "description": "Rust port of the TypeScript 7 type checker",
       "language": "Rust",
       "topics": [],
-      "stargazers_count": 340,
-      "forks_count": 8,
+      "stargazers_count": 2265,
+      "forks_count": 46,
       "created_at": "2026-10-01T15:14:18Z",
-      "pushed_at": "2026-10-18T22:40:39Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "steipete"
-      ],
-      "first_starred_at": "2026-10-18T19:35:05Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "lablup/all-smi",
-      "html_url": "https://github.com/lablup/all-smi",
-      "description": "Command-line utility for monitoring GPU hardware.",
-      "language": "Rust",
-      "topics": [
-        "backend-ai",
-        "cluster-computing",
-        "gpu",
-        "monitoring-tool"
-      ],
-      "stargazers_count": 338,
-      "forks_count": 35,
-      "created_at": "2024-08-10T00:02:11Z",
-      "pushed_at": "2026-10-18T05:35:29Z",
+      "pushed_at": "2026-10-25T23:11:53Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "yihong0618"
       ],
-      "first_starred_at": "2026-10-18T11:52:04Z",
+      "first_starred_at": "2026-10-21T02:11:17Z",
       "network_star_count": 1
     },
     {
-      "full_name": "chekusu/yomado",
-      "html_url": "https://github.com/chekusu/yomado",
-      "description": "Native macOS virtual displays for visual agents, with a skill to set up and manage their work screens.",
-      "language": "Objective-C",
+      "full_name": "EthanArbuckle/fairplay-decrypt",
+      "html_url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+      "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
+      "language": "C",
       "topics": [],
-      "stargazers_count": 148,
-      "forks_count": 12,
-      "created_at": "2026-10-10T12:49:48Z",
-      "pushed_at": "2026-10-17T09:49:53Z",
+      "stargazers_count": 2097,
+      "forks_count": 326,
+      "created_at": "2026-10-19T10:07:58Z",
+      "pushed_at": "2026-10-24T21:59:52Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-22T01:15:24Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "amosblomqvist/learnharness",
+      "html_url": "https://github.com/amosblomqvist/learnharness",
+      "description": "Agent harness for learning difficult things.",
+      "language": "TypeScript",
+      "topics": [],
+      "stargazers_count": 1675,
+      "forks_count": 291,
+      "created_at": "2026-10-16T19:35:33Z",
+      "pushed_at": "2026-10-25T17:04:38Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-24T07:25:36Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "yihong0618/gitblog",
+      "html_url": "https://github.com/yihong0618/gitblog",
+      "description": "People Die, but Long Live GitHub",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 1629,
+      "forks_count": 142,
+      "created_at": "2019-07-18T00:31:17Z",
+      "pushed_at": "2026-10-25T03:17:15Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-24T13:22:29Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "cgeo/cgeo",
+      "html_url": "https://github.com/cgeo/cgeo",
+      "description": "c:geo - The powerful Android geocaching app.",
+      "language": "Java",
+      "topics": [
+        "android",
+        "cgeo",
+        "geocaching",
+        "opencaching"
+      ],
+      "stargazers_count": 1550,
+      "forks_count": 603,
+      "created_at": "2011-07-11T06:02:47Z",
+      "pushed_at": "2026-10-25T18:29:09Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-22T03:23:58Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "adobe-fonts/source-han-mono",
+      "html_url": "https://github.com/adobe-fonts/source-han-mono",
+      "description": "Source Han Mono | 思源等宽 | 思源等寬 | 思源等寬 香港 | 源ノ等幅 | 본모노",
+      "language": "",
+      "topics": [
+        "cff",
+        "cjk",
+        "font",
+        "opentype",
+        "otc",
+        "source-han"
+      ],
+      "stargazers_count": 1362,
+      "forks_count": 51,
+      "created_at": "2019-05-23T21:07:56Z",
+      "pushed_at": "2021-04-21T06:14:53Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-20T21:53:00Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "NVIDIA-NeMo/Gym",
+      "html_url": "https://github.com/NVIDIA-NeMo/Gym",
+      "description": "Evaluate and improve models and agents using environments",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "benchmarks",
+        "environments",
+        "evaluation",
+        "gym",
+        "llm",
+        "reinforcement-learning",
+        "reinforcement-learning-environments",
+        "rl-environment",
+        "rl-training"
+      ],
+      "stargazers_count": 1286,
+      "forks_count": 421,
+      "created_at": "2025-08-25T21:37:55Z",
+      "pushed_at": "2026-10-26T01:04:49Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-21T06:41:54Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "KonghaYao/cn-font-split",
+      "html_url": "https://github.com/KonghaYao/cn-font-split",
+      "description": "划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.   ",
+      "language": "Rust",
+      "topics": [
+        "browser",
+        "bun",
+        "cjk",
+        "cjk-font",
+        "converter",
+        "deno",
+        "font",
+        "font-subset",
+        "font-subsetter",
+        "multithreading",
+        "nodejs",
+        "opentype-fonts",
+        "otf",
+        "performance",
+        "ttf",
+        "wasm",
+        "webworker",
+        "woff2"
+      ],
+      "stargazers_count": 1255,
+      "forks_count": 49,
+      "created_at": "2022-08-26T11:54:41Z",
+      "pushed_at": "2026-06-12T13:45:21Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-20T21:53:55Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "NVIDIA/cudnn-frontend",
+      "html_url": "https://github.com/NVIDIA/cudnn-frontend",
+      "description": "cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collection of high-performance open-source kernels.",
+      "language": "Python",
+      "topics": [
+        "attention",
+        "blackwell",
+        "cuda",
+        "cuda-kernels",
+        "cuda-toolkit",
+        "deep-learning",
+        "flash-attention",
+        "fp8",
+        "gemm",
+        "gpu",
+        "grouped-gemm",
+        "hopper",
+        "mixture-of-experts",
+        "moe",
+        "mxfp8",
+        "normalization",
+        "nvfp4",
+        "nvidia",
+        "sdpa",
+        "transformer"
+      ],
+      "stargazers_count": 983,
+      "forks_count": 324,
+      "created_at": "2021-01-22T16:16:29Z",
+      "pushed_at": "2026-10-26T00:50:46Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-21T09:19:49Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "DrXie/OSFCC",
+      "html_url": "https://github.com/DrXie/OSFCC",
+      "description": "一个收集可用于中文字体排印的开源字体集合。",
+      "language": "",
+      "topics": [
+        "chinese",
+        "fonts",
+        "typography"
+      ],
+      "stargazers_count": 840,
+      "forks_count": 39,
+      "created_at": "2017-11-21T11:10:48Z",
+      "pushed_at": "2020-04-27T13:08:47Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-20T21:49:36Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "microsoft/nvx",
+      "html_url": "https://github.com/microsoft/nvx",
+      "description": "Cross-Platform Micro-VM Sandbox for Agentic Workloads",
+      "language": "Rust",
+      "topics": [
+        "agentic-coding",
+        "agentic-engineering",
+        "agentic-workflows",
+        "hyperv",
+        "hypervisor",
+        "kvm",
+        "linux",
+        "microvm",
+        "sandbox",
+        "vm"
+      ],
+      "stargazers_count": 759,
+      "forks_count": 48,
+      "created_at": "2026-08-27T16:46:54Z",
+      "pushed_at": "2026-10-26T00:36:20Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-21T10:27:51Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "trailofbits/dylint",
+      "html_url": "https://github.com/trailofbits/dylint",
+      "description": "Run Rust lints from dynamic libraries",
+      "language": "Rust",
+      "topics": [
+        "linting",
+        "rust"
+      ],
+      "stargazers_count": 702,
+      "forks_count": 66,
+      "created_at": "2021-03-19T22:27:48Z",
+      "pushed_at": "2026-10-25T14:29:41Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-19T11:44:45Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "SoMarkAI/OXR",
+      "html_url": "https://github.com/SoMarkAI/OXR",
+      "description": "An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-training.",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "llm-tools",
+        "ocr",
+        "rsi",
+        "vlm",
+        "vlm-ocr"
+      ],
+      "stargazers_count": 687,
+      "forks_count": 55,
+      "created_at": "2026-10-05T04:28:31Z",
+      "pushed_at": "2026-10-24T15:48:22Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-21T20:19:28Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "NVIDIA/flare-local-inference",
+      "html_url": "https://github.com/NVIDIA/flare-local-inference",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 659,
+      "forks_count": 70,
+      "created_at": "2026-10-20T17:09:40Z",
+      "pushed_at": "2026-10-25T23:04:11Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-22T02:19:47Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "dominikmartn/harp",
+      "html_url": "https://github.com/dominikmartn/harp",
+      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "language": "Rust",
+      "topics": [],
+      "stargazers_count": 617,
+      "forks_count": 42,
+      "created_at": "2026-10-20T10:39:43Z",
+      "pushed_at": "2026-10-21T10:29:54Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "tw93"
       ],
-      "first_starred_at": "2026-10-18T14:44:06Z",
+      "first_starred_at": "2026-10-25T14:35:20Z",
       "network_star_count": 1
     },
     {
-      "full_name": "dentiny/duckdb-object-storage",
-      "html_url": "https://github.com/dentiny/duckdb-object-storage",
-      "description": "DuckDB over object storage",
+      "full_name": "pcodec/pcodec",
+      "html_url": "https://github.com/pcodec/pcodec",
+      "description": "Lossless codec for numerical data",
       "language": "Rust",
-      "topics": [],
-      "stargazers_count": 81,
-      "forks_count": 8,
-      "created_at": "2026-01-25T11:44:41Z",
-      "pushed_at": "2026-10-18T22:33:57Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "yihong0618"
+      "topics": [
+        "compression"
       ],
-      "first_starred_at": "2026-10-12T21:40:22Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "NVIDIA/cuCascade",
-      "html_url": "https://github.com/NVIDIA/cuCascade",
-      "description": "GPU Memory Reservation Library",
-      "language": "C++",
-      "topics": [],
-      "stargazers_count": 63,
-      "forks_count": 35,
-      "created_at": "2025-12-15T17:53:16Z",
-      "pushed_at": "2026-10-16T21:41:44Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "yihong0618"
-      ],
-      "first_starred_at": "2026-10-12T09:03:28Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "ibragim-bad/evals-from-sessions",
-      "html_url": "https://github.com/ibragim-bad/evals-from-sessions",
-      "description": "Turn your coding-agent sessions into private evals and find the cheapest setup that still solves your tasks.",
-      "language": "Shell",
-      "topics": [],
-      "stargazers_count": 53,
-      "forks_count": 0,
-      "created_at": "2026-10-13T13:19:35Z",
-      "pushed_at": "2026-10-14T17:56:56Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mrexodia"
-      ],
-      "first_starred_at": "2026-10-17T13:27:47Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "ClickHouse/clickhouse-c",
-      "html_url": "https://github.com/ClickHouse/clickhouse-c",
-      "description": "minimalist header-only library for embedded contexts",
-      "language": "C",
-      "topics": [],
-      "stargazers_count": 41,
-      "forks_count": 5,
-      "created_at": "2026-05-21T21:59:57Z",
-      "pushed_at": "2026-09-25T20:20:27Z",
+      "stargazers_count": 516,
+      "forks_count": 36,
+      "created_at": "2021-05-31T21:13:10Z",
+      "pushed_at": "2026-10-23T10:48:16Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "alexey-milovidov"
       ],
-      "first_starred_at": "2026-10-12T03:56:45Z",
+      "first_starred_at": "2026-10-22T03:26:47Z",
       "network_star_count": 1
     },
     {
-      "full_name": "SauersML/watching",
-      "html_url": "https://github.com/SauersML/watching",
-      "description": "Experiments on whether language models can learn to detect read-only activation probes",
+      "full_name": "baidu-baige/LoongSage",
+      "html_url": "https://github.com/baidu-baige/LoongSage",
+      "description": "A production-grade, high-efficiency Agentic RL framework for frontier LLMs with validated recipes.",
       "language": "Python",
       "topics": [],
-      "stargazers_count": 35,
-      "forks_count": 0,
-      "created_at": "2026-10-16T05:37:11Z",
-      "pushed_at": "2026-10-18T19:58:19Z",
+      "stargazers_count": 444,
+      "forks_count": 11,
+      "created_at": "2026-08-28T07:22:30Z",
+      "pushed_at": "2026-10-22T11:54:16Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-20T09:13:01Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "elder-plinius/FRV1T",
+      "html_url": "https://github.com/elder-plinius/FRV1T",
+      "description": "INVETITI",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 302,
+      "forks_count": 76,
+      "created_at": "2026-09-11T00:44:02Z",
+      "pushed_at": "2026-10-23T01:08:23Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "mrexodia"
       ],
-      "first_starred_at": "2026-10-18T08:34:42Z",
+      "first_starred_at": "2026-10-23T11:59:06Z",
       "network_star_count": 1
     },
     {
-      "full_name": "ShaoqiangLu/DFVG",
-      "html_url": "https://github.com/ShaoqiangLu/DFVG",
-      "description": "DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU.   ",
+      "full_name": "MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks",
+      "html_url": "https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks",
+      "description": "DeepSeek-V4.1-Flash-1017 EXL3 on 2x DGX Sparks with TensorFold",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 294,
+      "forks_count": 47,
+      "created_at": "2026-10-18T18:10:59Z",
+      "pushed_at": "2026-10-24T14:43:47Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-20T16:07:29Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "x86rc/unthemidator",
+      "html_url": "https://github.com/x86rc/unthemidator",
+      "description": "An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool",
       "language": "C++",
       "topics": [],
-      "stargazers_count": 29,
-      "forks_count": 5,
-      "created_at": "2025-08-17T07:56:01Z",
-      "pushed_at": "2025-11-26T16:09:37Z",
+      "stargazers_count": 207,
+      "forks_count": 28,
+      "created_at": "2026-10-23T13:23:19Z",
+      "pushed_at": "2026-10-24T17:49:11Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-25T11:25:05Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "smm2recomp/smm2recomp",
+      "html_url": "https://github.com/smm2recomp/smm2recomp",
+      "description": "Super Mario Maker 2 Recomp",
+      "language": "Rust",
+      "topics": [],
+      "stargazers_count": 175,
+      "forks_count": 15,
+      "created_at": "2026-10-19T03:02:41Z",
+      "pushed_at": "2026-10-25T09:36:39Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-22T10:13:11Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "bigfish1913/pi-rust",
+      "html_url": "https://github.com/bigfish1913/pi-rust",
+      "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ABI",
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "anthropic",
+        "cli",
+        "coding-agent",
+        "llm",
+        "llm-agent",
+        "pi",
+        "pi-agent",
+        "pi-rust",
+        "plugins",
+        "rpi",
+        "rust",
+        "rust-agent",
+        "sdk",
+        "terminal",
+        "terminal-agent"
+      ],
+      "stargazers_count": 149,
+      "forks_count": 30,
+      "created_at": "2026-08-15T07:44:11Z",
+      "pushed_at": "2026-10-25T14:59:44Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "ouyangzhiping"
+      ],
+      "first_starred_at": "2026-10-20T09:38:10Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "None9527/None_Z-trainer",
+      "html_url": "https://github.com/None9527/None_Z-trainer",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 147,
+      "forks_count": 17,
+      "created_at": "2025-12-04T08:59:42Z",
+      "pushed_at": "2026-04-03T07:24:59Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "karminski"
       ],
-      "first_starred_at": "2026-10-15T05:53:16Z",
+      "first_starred_at": "2026-10-24T02:41:25Z",
       "network_star_count": 1
     },
     {
-      "full_name": "kweatherman/ida2pdb",
-      "html_url": "https://github.com/kweatherman/ida2pdb",
-      "description": "",
-      "language": "C++",
-      "topics": [],
-      "stargazers_count": 26,
-      "forks_count": 1,
-      "created_at": "2026-09-30T01:58:20Z",
-      "pushed_at": "2026-10-11T23:18:08Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mrexodia"
-      ],
-      "first_starred_at": "2026-10-12T14:22:53Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "chosen-instruction-attack/CIA-toolchain",
-      "html_url": "https://github.com/chosen-instruction-attack/CIA-toolchain",
-      "description": "The toolchain of Chosen-instruction attack",
+      "full_name": "plotarmordev/drama-tensorfold",
+      "html_url": "https://github.com/plotarmordev/drama-tensorfold",
+      "description": "Fish Audio Drama 3 text-to-speech on the TensorFold native CUDA engine for DGX Spark (GB10): recipe, engine patches, benchmarks. Built with Fish Audio.",
       "language": "Python",
       "topics": [],
-      "stargazers_count": 23,
-      "forks_count": 1,
-      "created_at": "2021-11-11T07:09:50Z",
-      "pushed_at": "2022-05-03T03:59:08Z",
+      "stargazers_count": 141,
+      "forks_count": 10,
+      "created_at": "2026-10-16T05:16:38Z",
+      "pushed_at": "2026-10-25T16:55:14Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "mrexodia"
       ],
-      "first_starred_at": "2026-10-18T10:32:10Z",
+      "first_starred_at": "2026-10-20T15:57:34Z",
       "network_star_count": 1
     },
     {
-      "full_name": "akatz-labs/h3-character-swap-tool",
-      "html_url": "https://github.com/akatz-labs/h3-character-swap-tool",
-      "description": "",
+      "full_name": "yuatemycat/SuperGhidra",
+      "html_url": "https://github.com/yuatemycat/SuperGhidra",
+      "description": "SuperGhidra: Autonomous Agent Reverse Engineering, Lock-Free Ghidra Daemon & C++ Recovery Suite",
       "language": "Python",
-      "topics": [],
-      "stargazers_count": 20,
-      "forks_count": 1,
-      "created_at": "2026-10-16T08:38:04Z",
-      "pushed_at": "2026-10-17T23:42:28Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mrexodia"
-      ],
-      "first_starred_at": "2026-10-17T13:26:22Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "radkawar/lindm",
-      "html_url": "https://github.com/radkawar/lindm",
-      "description": "Self-hosted MDM for Linux fleets. Enrollment, profiles, disk encryption, lock and wipe, OS updates and remote assistance with each distribution's native tools.",
-      "language": "Go",
       "topics": [
-        "debian",
-        "device-management",
-        "disk-encryption",
-        "endpoint-management",
-        "fedora",
-        "fleet-management",
-        "go",
-        "linux",
-        "mdm",
-        "postgresql",
-        "remote-assistance",
-        "rhel",
-        "self-hosted",
-        "tpm",
-        "ubuntu"
+        "arm64",
+        "binary-analysis",
+        "decompiler",
+        "disassembler",
+        "ghidra",
+        "mcp",
+        "pcode",
+        "python",
+        "reverseengineering",
+        "reversing",
+        "smt-solver",
+        "x86-64",
+        "z3"
       ],
-      "stargazers_count": 20,
-      "forks_count": 1,
-      "created_at": "2026-10-08T12:35:54Z",
-      "pushed_at": "2026-10-16T07:06:01Z",
+      "stargazers_count": 140,
+      "forks_count": 9,
+      "created_at": "2026-10-20T08:22:31Z",
+      "pushed_at": "2026-10-25T11:43:47Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "mrexodia"
       ],
-      "first_starred_at": "2026-10-17T10:14:16Z",
+      "first_starred_at": "2026-10-22T10:10:18Z",
       "network_star_count": 1
     },
     {
-      "full_name": "vincalkr/Strata-DSV4.1",
-      "html_url": "https://github.com/vincalkr/Strata-DSV4.1",
-      "description": "DeepSeek-V4.1-Flash GSQ on a single RX 7900 XTX (gfx1100, ROCm/HIP): the v41 engine, the optimizations with their measured numbers, and the docs",
-      "language": "C++",
+      "full_name": "pixixai/ComfyUI-AlignLayout",
+      "html_url": "https://github.com/pixixai/ComfyUI-AlignLayout",
+      "description": "节点对齐、分布、快捷菜单",
+      "language": "JavaScript",
       "topics": [],
-      "stargazers_count": 18,
-      "forks_count": 1,
-      "created_at": "2026-10-16T16:27:33Z",
-      "pushed_at": "2026-10-16T22:33:06Z",
-      "archived": false,
-      "fork": true,
-      "starred_by": [
-        "mrexodia"
-      ],
-      "first_starred_at": "2026-10-17T22:19:46Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "oscarsantanaarias/IDA-Ghidra-bridge",
-      "html_url": "https://github.com/oscarsantanaarias/IDA-Ghidra-bridge",
-      "description": "",
-      "language": "Python",
-      "topics": [],
-      "stargazers_count": 15,
-      "forks_count": 3,
-      "created_at": "2026-10-11T17:31:46Z",
-      "pushed_at": "2026-10-12T13:53:09Z",
+      "stargazers_count": 106,
+      "forks_count": 5,
+      "created_at": "2026-01-06T11:05:53Z",
+      "pushed_at": "2026-10-13T16:10:11Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "mrexodia"
+        "karminski"
       ],
-      "first_starred_at": "2026-10-15T08:38:03Z",
+      "first_starred_at": "2026-10-25T09:00:37Z",
       "network_star_count": 1
     },
     {
-      "full_name": "DeadKennedyx/hidden-tiny-aes",
-      "html_url": "https://github.com/DeadKennedyx/hidden-tiny-aes",
-      "description": "AES-256-CBC with some evasion techniques",
-      "language": "C",
+      "full_name": "Leonxlnx/golden-temple",
+      "html_url": "https://github.com/Leonxlnx/golden-temple",
+      "description": "A golden-hour Japanese temple built entirely in code with three.js. No models, no textures, no HDRIs. Rendered offline into a 70s 1080p60 film",
+      "language": "JavaScript",
       "topics": [
-        "c",
-        "evasion",
-        "evasion-detection",
-        "evasion-techniques",
-        "evasions",
-        "malware",
-        "malware-analysis",
-        "malware-detection",
-        "malware-development",
-        "malware-research",
-        "reverse-engineering"
+        "claude-code",
+        "generative-art",
+        "glsl",
+        "procedural-generation",
+        "rendering",
+        "threejs",
+        "webgl"
       ],
-      "stargazers_count": 11,
-      "forks_count": 2,
-      "created_at": "2026-08-29T23:05:15Z",
-      "pushed_at": "2026-08-31T00:48:28Z",
+      "stargazers_count": 106,
+      "forks_count": 18,
+      "created_at": "2026-10-15T08:48:25Z",
+      "pushed_at": "2026-10-15T08:49:17Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "mrexodia"
+        "karminski"
       ],
-      "first_starred_at": "2026-10-18T10:36:29Z",
+      "first_starred_at": "2026-10-23T06:50:43Z",
       "network_star_count": 1
     },
     {
-      "full_name": "Garfield1002/open_sleigh",
-      "html_url": "https://github.com/Garfield1002/open_sleigh",
-      "description": "Community-maintained SLEIGH processor specifications for Ghidra",
-      "language": "Python",
-      "topics": [],
-      "stargazers_count": 11,
-      "forks_count": 1,
-      "created_at": "2026-05-10T21:58:27Z",
-      "pushed_at": "2026-10-16T09:55:41Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mrexodia"
+      "full_name": "nolffan/nolfsrc",
+      "html_url": "https://github.com/nolffan/nolfsrc",
+      "description": "The Operative: No One Lives Forever source code",
+      "language": "C++",
+      "topics": [
+        "lithtech",
+        "lt2",
+        "monolith",
+        "nolf"
       ],
-      "first_starred_at": "2026-10-17T12:38:11Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "2fxbu97lhv/spectrum-ida-theme",
-      "html_url": "https://github.com/2fxbu97lhv/spectrum-ida-theme",
-      "description": "",
-      "language": "Python",
-      "topics": [],
-      "stargazers_count": 9,
-      "forks_count": 0,
-      "created_at": "2026-10-14T02:29:36Z",
-      "pushed_at": "2026-10-18T18:05:01Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mrexodia"
-      ],
-      "first_starred_at": "2026-10-17T18:22:08Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "dialohq/tailscale-database-gateway",
-      "html_url": "https://github.com/dialohq/tailscale-database-gateway",
-      "description": "PostgreSQL and ClickHouse gateway with Tailscale identity and Vault dynamic credentials",
-      "language": "Go",
-      "topics": [],
-      "stargazers_count": 8,
-      "forks_count": 0,
-      "created_at": "2026-10-02T16:27:02Z",
-      "pushed_at": "2026-10-11T17:30:55Z",
+      "stargazers_count": 97,
+      "forks_count": 5,
+      "created_at": "2026-10-10T00:12:25Z",
+      "pushed_at": "2026-10-25T18:13:41Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "alexey-milovidov"
       ],
-      "first_starred_at": "2026-10-12T04:48:48Z",
+      "first_starred_at": "2026-10-24T04:26:46Z",
       "network_star_count": 1
     },
     {
-      "full_name": "chosen-instruction-attack/CIA-dataset",
-      "html_url": "https://github.com/chosen-instruction-attack/CIA-dataset",
-      "description": "",
-      "language": "",
+      "full_name": "pug-sh/pug",
+      "html_url": "https://github.com/pug-sh/pug",
+      "description": "Open-source product analytics",
+      "language": "Go",
+      "topics": [
+        "ai",
+        "analytics",
+        "assistant",
+        "clickhouse",
+        "connectrpc",
+        "dpdp",
+        "flutter",
+        "flutter-analytics",
+        "gdpr",
+        "google-analytics",
+        "mcp",
+        "mixpanel",
+        "nats",
+        "posthog",
+        "productanalytics",
+        "self-hosted",
+        "selfhosted",
+        "web-analytics",
+        "webanalytics"
+      ],
+      "stargazers_count": 97,
+      "forks_count": 9,
+      "created_at": "2026-06-04T13:10:04Z",
+      "pushed_at": "2026-10-25T11:24:40Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "alexey-milovidov"
+      ],
+      "first_starred_at": "2026-10-21T00:02:35Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "aaf6aa/PBRnxt",
+      "html_url": "https://github.com/aaf6aa/PBRnxt",
+      "description": "A deep learning based high-resolution PBR material generator",
+      "language": "Python",
       "topics": [],
-      "stargazers_count": 7,
-      "forks_count": 1,
-      "created_at": "2022-04-01T14:40:11Z",
-      "pushed_at": "2022-04-01T15:01:42Z",
+      "stargazers_count": 91,
+      "forks_count": 9,
+      "created_at": "2024-06-13T00:09:27Z",
+      "pushed_at": "2024-07-02T13:21:15Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mholt"
+      ],
+      "first_starred_at": "2026-10-22T13:39:27Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "peterroe/magpie-usage-display",
+      "html_url": "https://github.com/peterroe/magpie-usage-display",
+      "description": "ESP32 display that shows you your magpie usage",
+      "language": "C",
+      "topics": [],
+      "stargazers_count": 75,
+      "forks_count": 9,
+      "created_at": "2026-10-19T17:09:28Z",
+      "pushed_at": "2026-10-19T17:42:00Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yetone"
+      ],
+      "first_starred_at": "2026-10-19T17:29:04Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "ttulttul/ComfyUI-FlowMatching-Upscaler",
+      "html_url": "https://github.com/ttulttul/ComfyUI-FlowMatching-Upscaler",
+      "description": "An upscaler node for flow-matching models like Qwen, applying the DemoFusion approach",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 63,
+      "forks_count": 2,
+      "created_at": "2025-11-11T17:29:31Z",
+      "pushed_at": "2026-01-29T18:18:20Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "karminski"
+      ],
+      "first_starred_at": "2026-10-25T07:35:00Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "intel/SDM",
+      "html_url": "https://github.com/intel/SDM",
+      "description": "Website for viewing the executable IA specification (external view). This combines data from the SDM and XED with a new executable specifiation.",
+      "language": "HTML",
+      "topics": [
+        "intel",
+        "isa",
+        "sdm",
+        "specification",
+        "x86",
+        "x86-64",
+        "x86-assembly"
+      ],
+      "stargazers_count": 61,
+      "forks_count": 4,
+      "created_at": "2026-08-24T19:04:36Z",
+      "pushed_at": "2026-10-13T11:22:42Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "mrexodia"
       ],
-      "first_starred_at": "2026-10-18T10:32:04Z",
+      "first_starred_at": "2026-10-20T13:29:06Z",
       "network_star_count": 1
     },
     {
-      "full_name": "gharman/samantha",
-      "html_url": "https://github.com/gharman/samantha",
-      "description": "",
-      "language": "Python",
-      "topics": [],
-      "stargazers_count": 4,
-      "forks_count": 0,
-      "created_at": "2026-09-27T23:07:32Z",
-      "pushed_at": "2026-10-11T01:28:03Z",
+      "full_name": "Jeong-Min-Cho/unluac",
+      "html_url": "https://github.com/Jeong-Min-Cho/unluac",
+      "description": "Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://sourceforge.net/p/unluac/hgcode/ci/default/tree/",
+      "language": "Lua",
+      "topics": [
+        "decompiler",
+        "lua",
+        "luac",
+        "unluac"
+      ],
+      "stargazers_count": 53,
+      "forks_count": 10,
+      "created_at": "2025-10-16T03:01:08Z",
+      "pushed_at": "2026-07-28T14:38:12Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "simonw"
+        "mrexodia"
       ],
-      "first_starred_at": "2026-10-15T01:26:55Z",
+      "first_starred_at": "2026-10-20T12:36:25Z",
       "network_star_count": 1
     },
     {
-      "full_name": "LuYanFCP/miniRL",
-      "html_url": "https://github.com/LuYanFCP/miniRL",
-      "description": "A Simple RL Framework for teaching and thesis practice",
+      "full_name": "foprc/qwen-image-2.1-comfyui-workflow",
+      "html_url": "https://github.com/foprc/qwen-image-2.1-comfyui-workflow",
+      "description": "",
       "language": "Python",
       "topics": [],
-      "stargazers_count": 3,
-      "forks_count": 0,
-      "created_at": "2026-10-02T12:55:53Z",
-      "pushed_at": "2026-10-06T06:11:25Z",
+      "stargazers_count": 51,
+      "forks_count": 3,
+      "created_at": "2026-09-22T14:34:06Z",
+      "pushed_at": "2026-09-22T15:45:37Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "karminski"
+      ],
+      "first_starred_at": "2026-10-24T10:45:47Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "nautilusbits/retrokit",
+      "html_url": "https://github.com/nautilusbits/retrokit",
+      "description": "Headless-Ghidra toolkit for reverse engineering 32-bit DOS and Win32 games (1993-2010): own LE/LX loader, Watcom calling conventions, library signatures, MCP server",
+      "language": "Python",
+      "topics": [
+        "decompiler",
+        "dos",
+        "ghidra",
+        "mcp",
+        "retro-gaming",
+        "reverse-engineering",
+        "watcom"
+      ],
+      "stargazers_count": 40,
+      "forks_count": 3,
+      "created_at": "2026-10-13T22:02:32Z",
+      "pushed_at": "2026-10-15T08:10:01Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-19T09:22:07Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "kinfolk0117/ComfyUI-QwenImage21-LatentUpscale",
+      "html_url": "https://github.com/kinfolk0117/ComfyUI-QwenImage21-LatentUpscale",
+      "description": "Learned 2x latent upscaling for Qwen Image 2.1 in ComfyUI.",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 31,
+      "forks_count": 1,
+      "created_at": "2026-09-21T12:54:34Z",
+      "pushed_at": "2026-09-21T13:06:39Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "karminski"
+      ],
+      "first_starred_at": "2026-10-25T07:39:07Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "GreptimeTeam/greptime-proto",
+      "html_url": "https://github.com/GreptimeTeam/greptime-proto",
+      "description": "GreptimeDB protobuf files.",
+      "language": "Rust",
+      "topics": [],
+      "stargazers_count": 22,
+      "forks_count": 35,
+      "created_at": "2023-02-08T11:13:41Z",
+      "pushed_at": "2026-10-23T11:20:18Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "yihong0618"
       ],
-      "first_starred_at": "2026-10-18T11:51:14Z",
+      "first_starred_at": "2026-10-21T02:10:19Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "karminski/deepseek-v4.1-flash-1017-issue-pov",
+      "html_url": "https://github.com/karminski/deepseek-v4.1-flash-1017-issue-pov",
+      "description": "DeepSeek Agent 问题 POV repo.",
+      "language": "JavaScript",
+      "topics": [],
+      "stargazers_count": 15,
+      "forks_count": 0,
+      "created_at": "2026-10-24T11:42:49Z",
+      "pushed_at": "2026-10-24T11:49:40Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "karminski"
+      ],
+      "first_starred_at": "2026-10-24T11:45:58Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "NethIafin/wine",
+      "html_url": "https://github.com/NethIafin/wine",
+      "description": "Wine for OpenBSD",
+      "language": "C",
+      "topics": [],
+      "stargazers_count": 9,
+      "forks_count": 2,
+      "created_at": "2026-10-02T13:45:49Z",
+      "pushed_at": "2026-10-24T21:32:12Z",
+      "archived": false,
+      "fork": true,
+      "starred_by": [
+        "simonw"
+      ],
+      "first_starred_at": "2026-10-19T16:13:50Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "dawsbot/sqlite-rs-stream",
+      "html_url": "https://github.com/dawsbot/sqlite-rs-stream",
+      "description": "Litestream-compatible SQLite replication to S3, running inside your Rust process",
+      "language": "Rust",
+      "topics": [],
+      "stargazers_count": 6,
+      "forks_count": 0,
+      "created_at": "2026-10-21T19:23:11Z",
+      "pushed_at": "2026-10-21T19:23:16Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-21T19:51:23Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "changkun/minllm",
+      "html_url": "https://github.com/changkun/minllm",
+      "description": "A minimal LLM pipeline that runs on a laptop, written from scratch in PyTorch and to be read: tokenizer, pretraining, inference, fine-tuning, RLHF and RLVR, with measured results and an interactive website.",
+      "language": "JavaScript",
+      "topics": [
+        "distillation",
+        "dpo",
+        "education",
+        "fine-tuning",
+        "from-scratch",
+        "grpo",
+        "language-model",
+        "llm",
+        "lora",
+        "mixture-of-experts",
+        "nanogpt",
+        "pytorch",
+        "quantization",
+        "rlhf",
+        "rlvr",
+        "tokenizer",
+        "transformer",
+        "tutorial"
+      ],
+      "stargazers_count": 6,
+      "forks_count": 0,
+      "created_at": "2026-10-10T18:14:53Z",
+      "pushed_at": "2026-10-15T22:42:49Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-23T03:46:05Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "detectmyjiggler/Detect_My_Jiggler",
+      "html_url": "https://github.com/detectmyjiggler/Detect_My_Jiggler",
+      "description": "Mouse Jiggler Detection Software",
+      "language": "C++",
+      "topics": [],
+      "stargazers_count": 4,
+      "forks_count": 0,
+      "created_at": "2026-03-02T20:12:16Z",
+      "pushed_at": "2026-06-16T04:20:10Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-10-21T23:20:19Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "menufactory43/panache",
+      "html_url": "https://github.com/menufactory43/panache",
+      "description": "Panache — RTS Belle Époque pour mobile (adaptation française de Battle Drones)",
+      "language": "TypeScript",
+      "topics": [],
+      "stargazers_count": 3,
+      "forks_count": 1,
+      "created_at": "2026-10-21T12:32:47Z",
+      "pushed_at": "2026-10-25T13:41:58Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "simonw"
+      ],
+      "first_starred_at": "2026-10-21T15:06:37Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "hinablue/qwen-image-21-trainer",
+      "html_url": "https://github.com/hinablue/qwen-image-21-trainer",
+      "description": "Standalone Qwen-Image 2.1 LoRA trainer with block filtering, cached training, and pinned DiffSynth source",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 3,
+      "forks_count": 0,
+      "created_at": "2026-10-02T17:35:59Z",
+      "pushed_at": "2026-10-05T07:50:10Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "karminski"
+      ],
+      "first_starred_at": "2026-10-24T00:17:23Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "ningfangtianwai-pixel/ai-girls-3d",
+      "html_url": "https://github.com/ningfangtianwai-pixel/ai-girls-3d",
+      "description": "小鲸鲸、Claude、ChatGPT、Gemini：7个3D角色模型，Blender/GLB，CC BY 4.0",
+      "language": "",
+      "topics": [],
+      "stargazers_count": 3,
+      "forks_count": 0,
+      "created_at": "2026-10-12T00:35:54Z",
+      "pushed_at": "2026-10-12T00:36:02Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "karminski"
+      ],
+      "first_starred_at": "2026-10-23T20:50:01Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "F86Pilot/fill-the-temple",
+      "html_url": "https://github.com/F86Pilot/fill-the-temple",
+      "description": "Lobby TV display for a ward temple challenge: paper-doll figures jump into a temple as families report ordinances from their phones.",
+      "language": "HTML",
+      "topics": [],
+      "stargazers_count": 2,
+      "forks_count": 0,
+      "created_at": "2026-10-25T03:13:10Z",
+      "pushed_at": "2026-10-25T04:08:26Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mholt"
+      ],
+      "first_starred_at": "2026-10-25T04:17:29Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "LuYanFCP/dsh-kicad",
+      "html_url": "https://github.com/LuYanFCP/dsh-kicad",
+      "description": "A DeepSeek Harness plugin for AI-driven PCB design in KiCad. A plugin that lets DeepSeek Harness design PCBs with KiCad.",
+      "language": "Python",
+      "topics": [
+        "dsh-plugin"
+      ],
+      "stargazers_count": 2,
+      "forks_count": 0,
+      "created_at": "2026-10-21T03:47:22Z",
+      "pushed_at": "2026-10-24T13:58:53Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-22T08:59:06Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "houseme/steam-api-web",
+      "html_url": "https://github.com/houseme/steam-api-web",
+      "description": "Async Steam Web API client for authentication, commerce, financial reports, site licensing and broadcasts",
+      "language": "Rust",
+      "topics": [
+        "async",
+        "steam",
+        "steam-api",
+        "steam-games",
+        "steam-rs",
+        "steam-rust"
+      ],
+      "stargazers_count": 2,
+      "forks_count": 0,
+      "created_at": "2026-10-21T08:57:51Z",
+      "pushed_at": "2026-10-24T19:21:46Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "yihong0618"
+      ],
+      "first_starred_at": "2026-10-21T09:12:02Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "SEDSLab/DialectRanger",
+      "html_url": "https://github.com/SEDSLab/DialectRanger",
+      "description": "",
+      "language": "HTML",
+      "topics": [],
+      "stargazers_count": 2,
+      "forks_count": 0,
+      "created_at": "2026-08-04T03:57:43Z",
+      "pushed_at": "2026-08-08T02:40:41Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "alexey-milovidov"
+      ],
+      "first_starred_at": "2026-10-19T04:50:10Z",
       "network_star_count": 1
     }
   ]
