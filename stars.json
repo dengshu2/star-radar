@@ -1,47 +1,60 @@
 {
   "user": "dengshu2",
-  "generated_at": "2026-11-09T02:33:12+00:00",
-  "window_start": "2026-11-02T02:33:12+00:00",
-  "window_end": "2026-11-09T02:33:12+00:00",
+  "generated_at": "2026-11-15T13:18:12+00:00",
+  "window_start": "2026-11-08T13:18:12+00:00",
+  "window_end": "2026-11-15T13:18:12+00:00",
   "window_days": 7,
   "following_count": 18,
-  "repo_count": 27,
+  "repo_count": 34,
   "errors": [],
   "repos": [
     {
-      "full_name": "emilkowalski/skills",
-      "html_url": "https://github.com/emilkowalski/skills",
-      "description": "Skills for Designers and Engineers.",
-      "language": "Markdown",
-      "topics": [],
-      "stargazers_count": 54897,
-      "forks_count": 3194,
-      "created_at": "2026-03-16T13:52:31Z",
-      "pushed_at": "2026-11-08T12:15:47Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "tw93"
-      ],
-      "first_starred_at": "2026-11-05T14:25:59Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "storytold/craft-anything",
-      "html_url": "https://github.com/storytold/craft-anything",
-      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "full_name": "pbakaus/impeccable",
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "topics": [],
-      "stargazers_count": 22837,
-      "forks_count": 4513,
-      "created_at": "2026-10-31T14:50:00Z",
-      "pushed_at": "2026-11-09T02:32:39Z",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "anti-slop",
+        "design",
+        "slop"
+      ],
+      "stargazers_count": 110481,
+      "forks_count": 6603,
+      "created_at": "2025-11-16T01:52:04Z",
+      "pushed_at": "2026-11-15T12:56:06Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "mrexodia"
       ],
-      "first_starred_at": "2026-11-02T19:36:05Z",
+      "first_starred_at": "2026-11-15T00:07:52Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "AlexsJones/llmfit",
+      "html_url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "topics": [
+        "gguf",
+        "llm",
+        "localai",
+        "mlx",
+        "skill",
+        "unsloth"
+      ],
+      "stargazers_count": 38997,
+      "forks_count": 2523,
+      "created_at": "2026-02-15T16:11:31Z",
+      "pushed_at": "2026-11-12T07:19:38Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-11-12T13:20:59Z",
       "network_star_count": 1
     },
     {
@@ -50,10 +63,10 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "topics": [],
-      "stargazers_count": 17050,
-      "forks_count": 1345,
+      "stargazers_count": 28503,
+      "forks_count": 2227,
       "created_at": "2026-01-09T16:20:32Z",
-      "pushed_at": "2026-11-09T02:32:42Z",
+      "pushed_at": "2026-11-15T13:16:41Z",
       "archived": false,
       "fork": false,
       "starred_by": [
@@ -63,125 +76,107 @@
       "network_star_count": 1
     },
     {
-      "full_name": "The-PR-Agent/pr-agent",
-      "html_url": "https://github.com/The-PR-Agent/pr-agent",
-      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "anthropic",
-        "code-review",
-        "coding-assistant",
-        "devtools",
-        "ollama",
-        "openai",
-        "pull-request",
-        "pull-requests"
-      ],
-      "stargazers_count": 15611,
-      "forks_count": 2150,
-      "created_at": "2023-07-05T21:02:15Z",
-      "pushed_at": "2026-11-08T22:55:48Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mrexodia"
-      ],
-      "first_starred_at": "2026-11-03T14:33:26Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "HKUDS/AgentPilot",
-      "html_url": "https://github.com/HKUDS/AgentPilot",
-      "description": "AgentPilot: Make Your Agents Move Better and Faster",
-      "language": "Python",
+      "full_name": "janestreet/agent_skills",
+      "html_url": "https://github.com/janestreet/agent_skills",
+      "description": "Agent skills",
+      "language": "",
       "topics": [],
-      "stargazers_count": 7965,
-      "forks_count": 938,
-      "created_at": "2026-03-24T08:01:49Z",
-      "pushed_at": "2026-11-06T15:04:01Z",
+      "stargazers_count": 8790,
+      "forks_count": 589,
+      "created_at": "2026-11-03T16:50:21Z",
+      "pushed_at": "2026-11-03T18:14:13Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "mrexodia"
       ],
-      "first_starred_at": "2026-11-07T14:04:34Z",
+      "first_starred_at": "2026-11-09T10:37:51Z",
       "network_star_count": 1
     },
     {
-      "full_name": "zortos293/Lichii",
-      "html_url": "https://github.com/zortos293/Lichii",
-      "description": "VERY experimental Nintendo Switch 2 emulator",
-      "language": "C++",
-      "topics": [],
-      "stargazers_count": 6915,
-      "forks_count": 1065,
-      "created_at": "2026-10-31T14:17:26Z",
-      "pushed_at": "2026-11-09T02:21:27Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mrexodia"
-      ],
-      "first_starred_at": "2026-11-06T12:02:47Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "anomalyco/rune",
-      "html_url": "https://github.com/anomalyco/rune",
-      "description": "Rune: Native UI framework",
+      "full_name": "aws/aws-emulator",
+      "html_url": "https://github.com/aws/aws-emulator",
+      "description": "AWS Emulator is a local emulator of the AWS APIs.",
       "language": "Rust",
       "topics": [],
-      "stargazers_count": 5214,
-      "forks_count": 158,
-      "created_at": "2026-10-22T05:51:40Z",
-      "pushed_at": "2026-11-09T02:08:05Z",
+      "stargazers_count": 8255,
+      "forks_count": 349,
+      "created_at": "2026-09-11T19:01:12Z",
+      "pushed_at": "2026-11-14T19:24:20Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "mholt"
+        "simonw"
       ],
-      "first_starred_at": "2026-11-07T22:33:58Z",
+      "first_starred_at": "2026-11-11T20:52:23Z",
       "network_star_count": 1
     },
     {
-      "full_name": "cosmicstack-labs/mercury-agent",
-      "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
-      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More.",
-      "language": "TypeScript",
-      "topics": [
-        "ai-agent",
-        "ai-assistant",
-        "llm"
-      ],
-      "stargazers_count": 3885,
-      "forks_count": 398,
-      "created_at": "2026-04-20T12:46:31Z",
-      "pushed_at": "2026-11-08T22:13:41Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mrexodia"
-      ],
-      "first_starred_at": "2026-11-03T20:16:50Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "dgreenheck/ez-tree",
-      "html_url": "https://github.com/dgreenheck/ez-tree",
-      "description": "Procedural tree generator written with JavaScript and Three.js",
-      "language": "JavaScript",
+      "full_name": "huamidev/GestaltX",
+      "html_url": "https://github.com/huamidev/GestaltX",
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "language": "Swift",
       "topics": [],
-      "stargazers_count": 1754,
-      "forks_count": 228,
-      "created_at": "2024-04-22T22:46:05Z",
-      "pushed_at": "2026-07-16T19:53:01Z",
+      "stargazers_count": 7685,
+      "forks_count": 2656,
+      "created_at": "2026-11-09T05:15:48Z",
+      "pushed_at": "2026-11-14T09:27:55Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "karminski"
+        "tw93"
       ],
-      "first_starred_at": "2026-11-03T13:10:23Z",
+      "first_starred_at": "2026-11-10T03:32:32Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "GoogleChrome/modern-web-guidance-src",
+      "html_url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "language": "TypeScript",
+      "topics": [],
+      "stargazers_count": 6690,
+      "forks_count": 531,
+      "created_at": "2026-01-27T20:22:24Z",
+      "pushed_at": "2026-11-15T12:09:36Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "lencx"
+      ],
+      "first_starred_at": "2026-11-13T00:44:03Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "expo/exact",
+      "html_url": "https://github.com/expo/exact",
+      "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "appkit",
+        "coding-agents",
+        "cross-platform",
+        "css",
+        "ios",
+        "linux",
+        "macos",
+        "native-apps",
+        "rust",
+        "swift",
+        "uikit",
+        "web"
+      ],
+      "stargazers_count": 4237,
+      "forks_count": 107,
+      "created_at": "2026-11-02T01:29:01Z",
+      "pushed_at": "2026-11-15T13:17:37Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "lencx"
+      ],
+      "first_starred_at": "2026-11-12T00:41:14Z",
       "network_star_count": 1
     },
     {
@@ -190,10 +185,10 @@
       "description": "",
       "language": "C",
       "topics": [],
-      "stargazers_count": 1385,
-      "forks_count": 64,
+      "stargazers_count": 4169,
+      "forks_count": 326,
       "created_at": "2026-11-07T10:01:23Z",
-      "pushed_at": "2026-11-08T20:52:18Z",
+      "pushed_at": "2026-11-15T04:53:06Z",
       "archived": false,
       "fork": false,
       "starred_by": [
@@ -203,39 +198,42 @@
       "network_star_count": 1
     },
     {
-      "full_name": "RikiyaT/lm_understand-logs",
-      "html_url": "https://github.com/RikiyaT/lm_understand-logs",
-      "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-      "language": "Python",
-      "topics": [],
-      "stargazers_count": 1146,
-      "forks_count": 150,
-      "created_at": "2026-10-29T04:17:30Z",
-      "pushed_at": "2026-10-29T04:47:12Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "simonw"
+      "full_name": "ddalcu/mlx-serve",
+      "html_url": "https://github.com/ddalcu/mlx-serve",
+      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
+      "language": "Zig",
+      "topics": [
+        "agent",
+        "anthropic-api",
+        "apple-silicon",
+        "claude-code",
+        "deepseek-v4",
+        "diffusion",
+        "gguf",
+        "image-generation",
+        "inference",
+        "llm",
+        "local-llm",
+        "macos",
+        "macos-app",
+        "mlx",
+        "openai-api",
+        "tool-calling",
+        "video-generation",
+        "voice-agent",
+        "voice-cloning",
+        "zig"
       ],
-      "first_starred_at": "2026-11-02T21:10:16Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "LAION-AI/aesthetic-predictor",
-      "html_url": "https://github.com/LAION-AI/aesthetic-predictor",
-      "description": "A linear estimator on top of clip to predict the aesthetic quality of pictures",
-      "language": "Jupyter Notebook",
-      "topics": [],
-      "stargazers_count": 746,
-      "forks_count": 31,
-      "created_at": "2022-05-21T12:36:24Z",
-      "pushed_at": "2022-08-15T13:21:41Z",
+      "stargazers_count": 2465,
+      "forks_count": 263,
+      "created_at": "2026-02-17T01:55:20Z",
+      "pushed_at": "2026-11-14T23:49:22Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "ouyangzhiping"
       ],
-      "first_starred_at": "2026-11-05T05:31:07Z",
+      "first_starred_at": "2026-11-15T01:10:55Z",
       "network_star_count": 1
     },
     {
@@ -244,10 +242,10 @@
       "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
       "language": "Rust",
       "topics": [],
-      "stargazers_count": 683,
-      "forks_count": 79,
+      "stargazers_count": 2429,
+      "forks_count": 303,
       "created_at": "2026-11-05T19:10:42Z",
-      "pushed_at": "2026-11-09T02:23:02Z",
+      "pushed_at": "2026-11-14T19:26:16Z",
       "archived": false,
       "fork": false,
       "starred_by": [
@@ -257,12 +255,37 @@
       "network_star_count": 1
     },
     {
+      "full_name": "lexifina/global-law",
+      "html_url": "https://github.com/lexifina/global-law",
+      "description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
+      "language": "HTML",
+      "topics": [
+        "git",
+        "law",
+        "legal-tech",
+        "legislation",
+        "mcp",
+        "open-data"
+      ],
+      "stargazers_count": 2021,
+      "forks_count": 189,
+      "created_at": "2026-10-28T13:34:16Z",
+      "pushed_at": "2026-11-15T02:51:40Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "simonw"
+      ],
+      "first_starred_at": "2026-11-14T16:47:04Z",
+      "network_star_count": 1
+    },
+    {
       "full_name": "workos/auth.md",
       "html_url": "https://github.com/workos/auth.md",
       "description": "An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain.",
       "language": "TypeScript",
       "topics": [],
-      "stargazers_count": 653,
+      "stargazers_count": 663,
       "forks_count": 56,
       "created_at": "2026-05-20T19:13:30Z",
       "pushed_at": "2026-11-02T19:58:11Z",
@@ -275,102 +298,114 @@
       "network_star_count": 1
     },
     {
-      "full_name": "arcships/dim",
-      "html_url": "https://github.com/arcships/dim",
-      "description": " An agent paradigm built on an event-driven timeline and a fully plugin-based runtime — it grows and iterates within the environment it runs in.",
-      "language": "Rust",
-      "topics": [],
-      "stargazers_count": 564,
-      "forks_count": 38,
-      "created_at": "2026-10-13T02:36:06Z",
-      "pushed_at": "2026-11-09T02:19:22Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "yihong0618"
-      ],
-      "first_starred_at": "2026-11-04T09:19:15Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "zeekk0/OpenAmika",
-      "html_url": "https://github.com/zeekk0/OpenAmika",
-      "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
-      "language": "Python",
+      "full_name": "codepawl/crucible",
+      "html_url": "https://github.com/codepawl/crucible",
+      "description": "3D engine that AI agents drive",
+      "language": "JavaScript",
       "topics": [
-        "ai-companion",
-        "live2d",
-        "long-term-memory",
-        "mekahime",
-        "ollama",
-        "openrouter",
-        "speech-recognition",
-        "text-to-speech"
+        "3d",
+        "3d-engine",
+        "agentic-ai",
+        "ai-agents",
+        "blender",
+        "claude-code",
+        "game-engine",
+        "gaussian-splatting",
+        "gltf",
+        "javascript",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "path-tracer",
+        "path-tracing",
+        "pbr",
+        "rendering",
+        "threejs-alternative",
+        "webgl2",
+        "webgpu"
       ],
-      "stargazers_count": 543,
-      "forks_count": 74,
-      "created_at": "2026-11-03T17:47:08Z",
-      "pushed_at": "2026-11-07T15:58:05Z",
+      "stargazers_count": 658,
+      "forks_count": 51,
+      "created_at": "2026-10-08T20:06:27Z",
+      "pushed_at": "2026-11-15T13:11:07Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "mrexodia"
+        "mholt"
       ],
-      "first_starred_at": "2026-11-05T19:00:45Z",
+      "first_starred_at": "2026-11-09T05:19:27Z",
       "network_star_count": 1
     },
     {
-      "full_name": "riyadhHDA/wichforks",
-      "html_url": "https://github.com/riyadhHDA/wichforks",
-      "description": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
-      "language": "Python",
-      "topics": [
-        "compatibility",
-        "eglantine",
-        "emulation",
-        "forks",
-        "switch-2"
-      ],
-      "stargazers_count": 525,
-      "forks_count": 5,
-      "created_at": "2026-11-05T14:47:29Z",
-      "pushed_at": "2026-11-07T18:00:59Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mrexodia"
-      ],
-      "first_starred_at": "2026-11-06T16:30:31Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "JonathanDC64/Soulbrandt",
-      "html_url": "https://github.com/JonathanDC64/Soulbrandt",
-      "description": "Soulbrandt: Demon's Souls, running natively on PC",
+      "full_name": "huawei-csl/MACaQ",
+      "html_url": "https://github.com/huawei-csl/MACaQ",
+      "description": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
       "language": "C++",
-      "topics": [],
-      "stargazers_count": 367,
-      "forks_count": 10,
-      "created_at": "2026-06-29T19:19:04Z",
-      "pushed_at": "2026-11-09T00:26:54Z",
+      "topics": [
+        "ascend",
+        "audio",
+        "audio-generation",
+        "diffusers",
+        "gguf",
+        "gguf-quantization",
+        "image-generation",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "local-inference",
+        "quantization",
+        "video-generation",
+        "vllm"
+      ],
+      "stargazers_count": 300,
+      "forks_count": 21,
+      "created_at": "2026-11-10T08:52:22Z",
+      "pushed_at": "2026-11-12T09:57:27Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "mrexodia"
       ],
-      "first_starred_at": "2026-11-06T16:58:54Z",
+      "first_starred_at": "2026-11-15T00:30:04Z",
       "network_star_count": 1
     },
     {
-      "full_name": "InsaneArts/Scene",
-      "html_url": "https://github.com/InsaneArts/Scene",
+      "full_name": "adrbn/bo2-mac",
+      "html_url": "https://github.com/adrbn/bo2-mac",
+      "description": "Call of Duty: Black Ops II statically recompiled from 32-bit x86 Windows to native ARM64 macOS: Remill → LLVM IR, a hand-written Win32 runtime, Direct3D 11 drawn by Metal. No Wine, no game files.",
+      "language": "C++",
+      "topics": [
+        "apple-silicon",
+        "black-ops-2",
+        "call-of-duty",
+        "llvm",
+        "macos",
+        "metal",
+        "remill",
+        "static-recompilation"
+      ],
+      "stargazers_count": 252,
+      "forks_count": 17,
+      "created_at": "2026-11-03T22:36:56Z",
+      "pushed_at": "2026-11-13T16:05:44Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-11-10T13:27:31Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "InsaneArts/scene",
+      "html_url": "https://github.com/InsaneArts/scene",
       "description": "Native macOS app that gives your desktop, terminals, and editors one theme in one step. Inspired by Omarchy",
       "language": "Swift",
       "topics": [],
-      "stargazers_count": 196,
-      "forks_count": 11,
+      "stargazers_count": 244,
+      "forks_count": 15,
       "created_at": "2026-09-28T15:35:26Z",
-      "pushed_at": "2026-11-08T08:21:32Z",
+      "pushed_at": "2026-11-09T20:26:20Z",
       "archived": false,
       "fork": false,
       "starred_by": [
@@ -380,9 +415,9 @@
       "network_star_count": 1
     },
     {
-      "full_name": "molefrog/moi",
-      "html_url": "https://github.com/molefrog/moi",
-      "description": "💾 MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
+      "full_name": "moi-computer/moi",
+      "html_url": "https://github.com/moi-computer/moi",
+      "description": "💾 Moi: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
       "language": "TypeScript",
       "topics": [
         "agents",
@@ -391,10 +426,10 @@
         "generative-ui",
         "openclaw"
       ],
-      "stargazers_count": 192,
-      "forks_count": 17,
+      "stargazers_count": 201,
+      "forks_count": 18,
       "created_at": "2026-03-07T12:09:57Z",
-      "pushed_at": "2026-11-08T10:13:22Z",
+      "pushed_at": "2026-11-15T09:54:33Z",
       "archived": false,
       "fork": false,
       "starred_by": [
@@ -404,102 +439,199 @@
       "network_star_count": 1
     },
     {
-      "full_name": "frostming/dsh-hongguo",
-      "html_url": "https://github.com/frostming/dsh-hongguo",
-      "description": "DSH plugin: watch Hongguo short dramas in the right sidebar while the agent works (built on openhongguo)",
+      "full_name": "Arcanum-Sec/SpikeStrip",
+      "html_url": "https://github.com/Arcanum-Sec/SpikeStrip",
+      "description": "Reversible HTML and JavaScript prompt decoys with opaque per-insertion keys.",
       "language": "JavaScript",
-      "topics": [
-        "cordis",
-        "cordis-plugin",
-        "dsh",
-        "dsh-plugin"
-      ],
-      "stargazers_count": 162,
-      "forks_count": 20,
-      "created_at": "2026-11-04T23:50:21Z",
-      "pushed_at": "2026-11-07T01:09:55Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "yihong0618"
-      ],
-      "first_starred_at": "2026-11-05T00:21:35Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "amoghmunikote/170th-Street",
-      "html_url": "https://github.com/amoghmunikote/170th-Street",
-      "description": "The most comprehensive community resource for the NVIDIA CMP 170HX.",
-      "language": "",
       "topics": [],
-      "stargazers_count": 132,
-      "forks_count": 28,
-      "created_at": "2026-04-16T06:18:29Z",
-      "pushed_at": "2026-07-30T16:34:45Z",
+      "stargazers_count": 158,
+      "forks_count": 13,
+      "created_at": "2026-11-02T17:52:59Z",
+      "pushed_at": "2026-11-02T19:55:08Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "karminski"
+        "mrexodia"
       ],
-      "first_starred_at": "2026-11-06T17:37:15Z",
+      "first_starred_at": "2026-11-10T13:17:52Z",
       "network_star_count": 1
     },
     {
-      "full_name": "SamG-Coder/solstice",
-      "html_url": "https://github.com/SamG-Coder/solstice",
-      "description": "Nanite and Lumen style rendering in the browser: virtualized geometry and dynamic global illumination in Rust and WebGPU",
-      "language": "Rust",
+      "full_name": "Picom-code/pico-dgx-ds4",
+      "html_url": "https://github.com/Picom-code/pico-dgx-ds4",
+      "description": "DeepSeek V4.1 Flash on 4x DGX Spark: 90/144 tok/s chat/code single-user, 376 tok/s at 16 distinct users, 1M context, images. Fork of blaesus/dsgx10.",
+      "language": "Cuda",
       "topics": [
-        "global-illumination",
-        "nanite",
-        "rendering",
-        "rust",
-        "webgpu",
-        "wgpu"
+        "cuda",
+        "deepseek",
+        "dgx-spark",
+        "inference-engine",
+        "llm-inference",
+        "local-llm",
+        "multi-node",
+        "openai-api",
+        "rdma",
+        "roce"
       ],
-      "stargazers_count": 60,
+      "stargazers_count": 112,
+      "forks_count": 19,
+      "created_at": "2026-11-05T14:44:32Z",
+      "pushed_at": "2026-11-11T20:47:24Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-11-12T14:26:43Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "nicobailon/pi-better",
+      "html_url": "https://github.com/nicobailon/pi-better",
+      "description": "/better rewrites your prompt with Felix Rieseberg's \"Depth\" prompt, using your real code and files, and puts it in your input box",
+      "language": "TypeScript",
+      "topics": [
+        "pi-package"
+      ],
+      "stargazers_count": 103,
       "forks_count": 3,
-      "created_at": "2026-11-07T00:46:19Z",
-      "pushed_at": "2026-11-09T02:02:36Z",
+      "created_at": "2026-11-08T19:34:28Z",
+      "pushed_at": "2026-11-13T06:25:20Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "mholt"
+        "mrexodia"
       ],
-      "first_starred_at": "2026-11-07T01:00:29Z",
+      "first_starred_at": "2026-11-13T20:52:28Z",
       "network_star_count": 1
     },
     {
-      "full_name": "alaleks/zpeek",
-      "html_url": "https://github.com/alaleks/zpeek",
-      "description": "A lightweight database TUI written in Zig for PostgreSQL, MySQL, SQLite, and ClickHouse. Browse tables, follow foreign keys, and switch databases from your terminal or over SSH.",
-      "language": "Zig",
+      "full_name": "ds-spec/detent-ui",
+      "html_url": "https://github.com/ds-spec/detent-ui",
+      "description": "Premium React components you install with shadcn. Styled by your theme, yours to change. Free and open source.",
+      "language": "TypeScript",
       "topics": [
-        "cli",
-        "clickhouse",
-        "command-line",
-        "database-client",
-        "database-tools",
-        "developer-tools",
-        "postgresql",
-        "sql",
-        "sql-client",
-        "ssh",
-        "terminal-based",
-        "terminal-ui",
-        "tui",
-        "zig"
+        "components",
+        "design-engineering",
+        "motion",
+        "nextjs",
+        "react",
+        "reactjs",
+        "shadcn",
+        "shadcn-ui",
+        "tailwindcss",
+        "typescript",
+        "ui-library"
       ],
-      "stargazers_count": 17,
+      "stargazers_count": 94,
       "forks_count": 2,
-      "created_at": "2026-10-12T08:17:48Z",
-      "pushed_at": "2026-11-07T13:02:55Z",
+      "created_at": "2026-10-23T09:32:27Z",
+      "pushed_at": "2026-11-15T09:08:04Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "alexey-milovidov"
+        "tw93"
       ],
-      "first_starred_at": "2026-11-06T00:35:08Z",
+      "first_starred_at": "2026-11-10T03:49:20Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "Yamato-Security/juntei",
+      "html_url": "https://github.com/Yamato-Security/juntei",
+      "description": "DFIR analyzer for Windows forensic artifacts",
+      "language": "Rust",
+      "topics": [],
+      "stargazers_count": 69,
+      "forks_count": 3,
+      "created_at": "2026-10-26T23:03:49Z",
+      "pushed_at": "2026-11-14T07:53:42Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-11-11T11:16:21Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "Blackwellboy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-TP2",
+      "html_url": "https://github.com/Blackwellboy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-TP2",
+      "description": "Uncensored DeepSeek-V4.1-Flash-1017 on 2x DGX Spark: refusals 94 to 6, same answers as DeepSeek's API, 2,008 tok/s prefill at 128K, 113 tok/s code decode. TensorFold native, 3 engine patches, 2 RoCE rails.",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 60,
+      "forks_count": 6,
+      "created_at": "2026-10-20T08:38:40Z",
+      "pushed_at": "2026-10-27T20:28:37Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-11-11T13:08:56Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "iArtorias/coffee_explorer",
+      "html_url": "https://github.com/iArtorias/coffee_explorer",
+      "description": "The familiar PE editor, redesigned with a Visual Studio aesthetic, high DPI support and more.",
+      "language": "C++",
+      "topics": [
+        "cpp23",
+        "detect-it-easy",
+        "pe-editor",
+        "win32",
+        "wpf"
+      ],
+      "stargazers_count": 47,
+      "forks_count": 10,
+      "created_at": "2026-11-08T14:47:04Z",
+      "pushed_at": "2026-11-08T14:48:45Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-11-10T12:54:52Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "mahaloz/ilio-mini",
+      "html_url": "https://github.com/mahaloz/ilio-mini",
+      "description": "A tiny infrastructure for Codex to solve CTF challenges in reverse engineering. 3rd in Flare-On 13.",
+      "language": "HTML",
+      "topics": [],
+      "stargazers_count": 35,
+      "forks_count": 4,
+      "created_at": "2026-09-25T17:18:49Z",
+      "pushed_at": "2026-09-26T04:01:27Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-11-10T10:55:02Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "fayazara/shiki-swift",
+      "html_url": "https://github.com/fayazara/shiki-swift",
+      "description": "A native Swift port of Shiki: TextMate grammars, VS Code themes, and Oniguruma tokenization without JavaScript, WebAssembly, or a web view at runtime.",
+      "language": "Swift",
+      "topics": [
+        "shiki",
+        "swift"
+      ],
+      "stargazers_count": 34,
+      "forks_count": 0,
+      "created_at": "2026-08-14T14:34:39Z",
+      "pushed_at": "2026-10-03T17:12:16Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "tw93"
+      ],
+      "first_starred_at": "2026-11-09T08:56:02Z",
       "network_star_count": 1
     },
     {
@@ -508,10 +640,10 @@
       "description": "Omarchy Pocket: Omarchy's CLI, config and services under a PocketJS shell on the Anbernic RG DS Plus",
       "language": "TypeScript",
       "topics": [],
-      "stargazers_count": 15,
-      "forks_count": 1,
+      "stargazers_count": 31,
+      "forks_count": 3,
       "created_at": "2026-10-28T16:11:41Z",
-      "pushed_at": "2026-11-04T00:44:07Z",
+      "pushed_at": "2026-11-14T10:03:14Z",
       "archived": false,
       "fork": false,
       "starred_by": [
@@ -521,39 +653,131 @@
       "network_star_count": 1
     },
     {
-      "full_name": "mreasonyang/codex-hongguo",
-      "html_url": "https://github.com/mreasonyang/codex-hongguo",
-      "description": "在 Codex 桌面对话侧栏观看红果短剧，任务结束自动暂停并保存进度。",
-      "language": "JavaScript",
-      "topics": [],
-      "stargazers_count": 6,
-      "forks_count": 1,
-      "created_at": "2026-11-05T17:14:39Z",
-      "pushed_at": "2026-11-08T17:53:03Z",
+      "full_name": "s0rlie/research-grant-mentors",
+      "html_url": "https://github.com/s0rlie/research-grant-mentors",
+      "description": "Interview-based system prompts for developing research grant applications (FRIPRO, the ERC Consolidator Grant and MSCA Doctoral Networks; more calls planned). Asks questions rather than writing text. Optimised for NTNU's IDUN LLM services.",
+      "language": "",
+      "topics": [
+        "erc",
+        "fripro",
+        "grant-writing",
+        "horizon-europe",
+        "llm",
+        "msca",
+        "ntnu",
+        "prompt-engineering",
+        "research-funding",
+        "system-prompt"
+      ],
+      "stargazers_count": 26,
+      "forks_count": 2,
+      "created_at": "2026-08-18T11:16:17Z",
+      "pushed_at": "2026-11-09T14:19:27Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "yihong0618"
+        "mrexodia"
       ],
-      "first_starred_at": "2026-11-08T04:51:50Z",
+      "first_starred_at": "2026-11-09T10:35:09Z",
       "network_star_count": 1
     },
     {
-      "full_name": "KraXen72/genanki-web",
-      "html_url": "https://github.com/KraXen72/genanki-web",
-      "description": "",
-      "language": "TypeScript",
-      "topics": [],
-      "stargazers_count": 1,
+      "full_name": "GUntilB/Anima-Prompt-Generator",
+      "html_url": "https://github.com/GUntilB/Anima-Prompt-Generator",
+      "description": "ComfyUI nodes: turn a short idea into a checked Danbooru-tag prompt for the Anima model with a local LLM.",
+      "language": "Python",
+      "topics": [
+        "anima",
+        "comfy-ui",
+        "comfyui",
+        "comfyui-custom-node",
+        "comfyui-custom-nodes",
+        "comfyui-nodes",
+        "danbooru",
+        "danbooru-tags"
+      ],
+      "stargazers_count": 14,
       "forks_count": 1,
-      "created_at": "2026-10-26T09:53:46Z",
-      "pushed_at": "2026-11-08T17:07:11Z",
+      "created_at": "2026-11-07T12:22:28Z",
+      "pushed_at": "2026-11-08T01:11:55Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "simonw"
+        "mrexodia"
       ],
-      "first_starred_at": "2026-11-08T10:32:34Z",
+      "first_starred_at": "2026-11-09T11:46:27Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "ShinMegamiBoson/lookatmyquant",
+      "html_url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "description": "A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size",
+      "language": "Python",
+      "topics": [],
+      "stargazers_count": 7,
+      "forks_count": 1,
+      "created_at": "2026-10-31T17:40:04Z",
+      "pushed_at": "2026-11-13T00:53:02Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-11-12T11:01:27Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "campossalex/streamhouse",
+      "html_url": "https://github.com/campossalex/streamhouse",
+      "description": "",
+      "language": "HTML",
+      "topics": [],
+      "stargazers_count": 5,
+      "forks_count": 3,
+      "created_at": "2026-09-29T01:46:17Z",
+      "pushed_at": "2026-11-11T21:48:07Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "wuchong"
+      ],
+      "first_starred_at": "2026-11-13T02:11:39Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "skuznetsov/crystal-click",
+      "html_url": "https://github.com/skuznetsov/crystal-click",
+      "description": "",
+      "language": "Crystal",
+      "topics": [],
+      "stargazers_count": 5,
+      "forks_count": 0,
+      "created_at": "2026-09-24T11:28:11Z",
+      "pushed_at": "2026-11-15T02:13:02Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "alexey-milovidov"
+      ],
+      "first_starred_at": "2026-11-11T21:26:49Z",
+      "network_star_count": 1
+    },
+    {
+      "full_name": "msuiche/weightstream",
+      "html_url": "https://github.com/msuiche/weightstream",
+      "description": "weightstream: a DGX Spark-native Rust inference engine for DeepSeek V4.1 Flash, with native GLP steering, CUDA kernels, and four-node TP4 RoCE decode.",
+      "language": "Rust",
+      "topics": [],
+      "stargazers_count": 4,
+      "forks_count": 0,
+      "created_at": "2026-10-26T05:19:23Z",
+      "pushed_at": "2026-11-14T07:41:51Z",
+      "archived": false,
+      "fork": false,
+      "starred_by": [
+        "mrexodia"
+      ],
+      "first_starred_at": "2026-11-14T10:00:49Z",
       "network_star_count": 1
     }
   ]
