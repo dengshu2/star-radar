@@ -1,11 +1,11 @@
 {
   "user": "dengshu2",
-  "generated_at": "2026-11-15T13:18:12+00:00",
-  "window_start": "2026-11-08T13:18:12+00:00",
-  "window_end": "2026-11-15T13:18:12+00:00",
+  "generated_at": "2026-11-16T02:40:21+00:00",
+  "window_start": "2026-11-09T02:40:21+00:00",
+  "window_end": "2026-11-16T02:40:21+00:00",
   "window_days": 7,
   "following_count": 18,
-  "repo_count": 34,
+  "repo_count": 29,
   "errors": [],
   "repos": [
     {
@@ -20,10 +20,10 @@
         "design",
         "slop"
       ],
-      "stargazers_count": 110481,
-      "forks_count": 6603,
+      "stargazers_count": 110808,
+      "forks_count": 6624,
       "created_at": "2025-11-16T01:52:04Z",
-      "pushed_at": "2026-11-15T12:56:06Z",
+      "pushed_at": "2026-11-16T02:33:10Z",
       "archived": false,
       "fork": false,
       "starred_by": [
@@ -45,10 +45,10 @@
         "skill",
         "unsloth"
       ],
-      "stargazers_count": 38997,
-      "forks_count": 2523,
+      "stargazers_count": 39004,
+      "forks_count": 2524,
       "created_at": "2026-02-15T16:11:31Z",
-      "pushed_at": "2026-11-12T07:19:38Z",
+      "pushed_at": "2026-11-16T02:06:47Z",
       "archived": false,
       "fork": false,
       "starred_by": [
@@ -58,21 +58,21 @@
       "network_star_count": 1
     },
     {
-      "full_name": "meta/astryx",
-      "html_url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
+      "full_name": "meta/zstd",
+      "html_url": "https://github.com/meta/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
       "topics": [],
-      "stargazers_count": 28503,
-      "forks_count": 2227,
-      "created_at": "2026-01-09T16:20:32Z",
-      "pushed_at": "2026-11-15T13:16:41Z",
+      "stargazers_count": 28256,
+      "forks_count": 2691,
+      "created_at": "2015-01-24T00:22:38Z",
+      "pushed_at": "2026-11-15T18:46:57Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "mrexodia"
+        "ouyangzhiping"
       ],
-      "first_starred_at": "2026-11-08T19:51:41Z",
+      "first_starred_at": "2026-11-15T20:03:33Z",
       "network_star_count": 1
     },
     {
@@ -81,8 +81,8 @@
       "description": "Agent skills",
       "language": "",
       "topics": [],
-      "stargazers_count": 8790,
-      "forks_count": 589,
+      "stargazers_count": 9037,
+      "forks_count": 611,
       "created_at": "2026-11-03T16:50:21Z",
       "pushed_at": "2026-11-03T18:14:13Z",
       "archived": false,
@@ -99,8 +99,8 @@
       "description": "AWS Emulator is a local emulator of the AWS APIs.",
       "language": "Rust",
       "topics": [],
-      "stargazers_count": 8255,
-      "forks_count": 349,
+      "stargazers_count": 8467,
+      "forks_count": 364,
       "created_at": "2026-09-11T19:01:12Z",
       "pushed_at": "2026-11-14T19:24:20Z",
       "archived": false,
@@ -117,8 +117,8 @@
       "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "language": "Swift",
       "topics": [],
-      "stargazers_count": 7685,
-      "forks_count": 2656,
+      "stargazers_count": 7753,
+      "forks_count": 2662,
       "created_at": "2026-11-09T05:15:48Z",
       "pushed_at": "2026-11-14T09:27:55Z",
       "archived": false,
@@ -135,8 +135,8 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "topics": [],
-      "stargazers_count": 6690,
-      "forks_count": 531,
+      "stargazers_count": 7277,
+      "forks_count": 606,
       "created_at": "2026-01-27T20:22:24Z",
       "pushed_at": "2026-11-15T12:09:36Z",
       "archived": false,
@@ -167,34 +167,16 @@
         "uikit",
         "web"
       ],
-      "stargazers_count": 4237,
-      "forks_count": 107,
+      "stargazers_count": 4331,
+      "forks_count": 114,
       "created_at": "2026-11-02T01:29:01Z",
-      "pushed_at": "2026-11-15T13:17:37Z",
+      "pushed_at": "2026-11-16T02:34:34Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "lencx"
       ],
       "first_starred_at": "2026-11-12T00:41:14Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "tangerineturtle1/NX2navi",
-      "html_url": "https://github.com/tangerineturtle1/NX2navi",
-      "description": "",
-      "language": "C",
-      "topics": [],
-      "stargazers_count": 4169,
-      "forks_count": 326,
-      "created_at": "2026-11-07T10:01:23Z",
-      "pushed_at": "2026-11-15T04:53:06Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mrexodia"
-      ],
-      "first_starred_at": "2026-11-08T19:35:09Z",
       "network_star_count": 1
     },
     {
@@ -224,34 +206,16 @@
         "voice-cloning",
         "zig"
       ],
-      "stargazers_count": 2465,
-      "forks_count": 263,
+      "stargazers_count": 2473,
+      "forks_count": 264,
       "created_at": "2026-02-17T01:55:20Z",
-      "pushed_at": "2026-11-14T23:49:22Z",
+      "pushed_at": "2026-11-15T22:02:31Z",
       "archived": false,
       "fork": false,
       "starred_by": [
         "ouyangzhiping"
       ],
       "first_starred_at": "2026-11-15T01:10:55Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "jamesondh/chimera-vocal-synth",
-      "html_url": "https://github.com/jamesondh/chimera-vocal-synth",
-      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-      "language": "Rust",
-      "topics": [],
-      "stargazers_count": 2429,
-      "forks_count": 303,
-      "created_at": "2026-11-05T19:10:42Z",
-      "pushed_at": "2026-11-14T19:26:16Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mrexodia"
-      ],
-      "first_starred_at": "2026-11-08T13:55:18Z",
       "network_star_count": 1
     },
     {
@@ -267,10 +231,10 @@
         "mcp",
         "open-data"
       ],
-      "stargazers_count": 2021,
-      "forks_count": 189,
+      "stargazers_count": 2046,
+      "forks_count": 190,
       "created_at": "2026-10-28T13:34:16Z",
-      "pushed_at": "2026-11-15T02:51:40Z",
+      "pushed_at": "2026-11-15T19:53:48Z",
       "archived": false,
       "fork": false,
       "starred_by": [
@@ -280,21 +244,21 @@
       "network_star_count": 1
     },
     {
-      "full_name": "workos/auth.md",
-      "html_url": "https://github.com/workos/auth.md",
-      "description": "An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain.",
-      "language": "TypeScript",
+      "full_name": "jesdga95/basalt",
+      "html_url": "https://github.com/jesdga95/basalt",
+      "description": "Local inference engine optimized for NVIDIA Blackwell",
+      "language": "C++",
       "topics": [],
-      "stargazers_count": 663,
-      "forks_count": 56,
-      "created_at": "2026-05-20T19:13:30Z",
-      "pushed_at": "2026-11-02T19:58:11Z",
+      "stargazers_count": 1087,
+      "forks_count": 153,
+      "created_at": "2026-10-06T22:17:02Z",
+      "pushed_at": "2026-11-16T02:35:17Z",
       "archived": false,
       "fork": false,
       "starred_by": [
-        "tw93"
+        "karminski"
       ],
-      "first_starred_at": "2026-11-08T14:17:22Z",
+      "first_starred_at": "2026-11-16T01:51:44Z",
       "network_star_count": 1
     },
     {
@@ -324,10 +288,10 @@
         "webgl2",
         "webgpu"
       ],
-      "stargazers_count": 658,
-      "forks_count": 51,
+      "stargazers_count": 675,
+      "forks_count": 53,
       "created_at": "2026-10-08T20:06:27Z",
-      "pushed_at": "2026-11-15T13:11:07Z",
+      "pushed_at": "2026-11-15T20:50:29Z",
       "archived": false,
       "fork": false,
       "starred_by": [
@@ -357,7 +321,7 @@
         "video-generation",
         "vllm"
       ],
-      "stargazers_count": 300,
+      "stargazers_count": 314,
       "forks_count": 21,
       "created_at": "2026-11-10T08:52:22Z",
       "pushed_at": "2026-11-12T09:57:27Z",
@@ -384,7 +348,7 @@
         "remill",
         "static-recompilation"
       ],
-      "stargazers_count": 252,
+      "stargazers_count": 256,
       "forks_count": 17,
       "created_at": "2026-11-03T22:36:56Z",
       "pushed_at": "2026-11-13T16:05:44Z",
@@ -394,48 +358,6 @@
         "mrexodia"
       ],
       "first_starred_at": "2026-11-10T13:27:31Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "InsaneArts/scene",
-      "html_url": "https://github.com/InsaneArts/scene",
-      "description": "Native macOS app that gives your desktop, terminals, and editors one theme in one step. Inspired by Omarchy",
-      "language": "Swift",
-      "topics": [],
-      "stargazers_count": 244,
-      "forks_count": 15,
-      "created_at": "2026-09-28T15:35:26Z",
-      "pushed_at": "2026-11-09T20:26:20Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "tw93"
-      ],
-      "first_starred_at": "2026-11-08T13:36:24Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "moi-computer/moi",
-      "html_url": "https://github.com/moi-computer/moi",
-      "description": "💾 Moi: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
-      "language": "TypeScript",
-      "topics": [
-        "agents",
-        "claude-code",
-        "claude-skills",
-        "generative-ui",
-        "openclaw"
-      ],
-      "stargazers_count": 201,
-      "forks_count": 18,
-      "created_at": "2026-03-07T12:09:57Z",
-      "pushed_at": "2026-11-15T09:54:33Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mholt"
-      ],
-      "first_starred_at": "2026-11-09T01:15:04Z",
       "network_star_count": 1
     },
     {
@@ -473,8 +395,8 @@
         "rdma",
         "roce"
       ],
-      "stargazers_count": 112,
-      "forks_count": 19,
+      "stargazers_count": 113,
+      "forks_count": 20,
       "created_at": "2026-11-05T14:44:32Z",
       "pushed_at": "2026-11-11T20:47:24Z",
       "archived": false,
@@ -493,8 +415,8 @@
       "topics": [
         "pi-package"
       ],
-      "stargazers_count": 103,
-      "forks_count": 3,
+      "stargazers_count": 104,
+      "forks_count": 5,
       "created_at": "2026-11-08T19:34:28Z",
       "pushed_at": "2026-11-13T06:25:20Z",
       "archived": false,
@@ -583,7 +505,7 @@
         "win32",
         "wpf"
       ],
-      "stargazers_count": 47,
+      "stargazers_count": 48,
       "forks_count": 10,
       "created_at": "2026-11-08T14:47:04Z",
       "pushed_at": "2026-11-08T14:48:45Z",
@@ -632,24 +554,6 @@
         "tw93"
       ],
       "first_starred_at": "2026-11-09T08:56:02Z",
-      "network_star_count": 1
-    },
-    {
-      "full_name": "pocket-nexus/omarchy-pocket",
-      "html_url": "https://github.com/pocket-nexus/omarchy-pocket",
-      "description": "Omarchy Pocket: Omarchy's CLI, config and services under a PocketJS shell on the Anbernic RG DS Plus",
-      "language": "TypeScript",
-      "topics": [],
-      "stargazers_count": 31,
-      "forks_count": 3,
-      "created_at": "2026-10-28T16:11:41Z",
-      "pushed_at": "2026-11-14T10:03:14Z",
-      "archived": false,
-      "fork": false,
-      "starred_by": [
-        "mrexodia"
-      ],
-      "first_starred_at": "2026-11-08T23:37:15Z",
       "network_star_count": 1
     },
     {
@@ -717,7 +621,7 @@
       "stargazers_count": 7,
       "forks_count": 1,
       "created_at": "2026-10-31T17:40:04Z",
-      "pushed_at": "2026-11-13T00:53:02Z",
+      "pushed_at": "2026-11-15T16:28:08Z",
       "archived": false,
       "fork": false,
       "starred_by": [
@@ -753,7 +657,7 @@
       "stargazers_count": 5,
       "forks_count": 0,
       "created_at": "2026-09-24T11:28:11Z",
-      "pushed_at": "2026-11-15T02:13:02Z",
+      "pushed_at": "2026-11-16T02:23:53Z",
       "archived": false,
       "fork": false,
       "starred_by": [
